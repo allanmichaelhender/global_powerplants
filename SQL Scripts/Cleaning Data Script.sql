@@ -72,9 +72,13 @@ CHANGE COLUMN `estimated_generation_gwh_2017` `energy_gwh_2017` VARCHAR(8) NULL 
 ALTER TABLE `global_powerplant`.`data_staging2` 
 CHANGE COLUMN `commissioning_year` `commissioning_year` INT NULL DEFAULT NULL ;
 
+ALTER TABLE `global_powerplant`.`data_staging2` 
+CHANGE COLUMN `capacity_mw` `capacity_mw` DECIMAL(22,2) NULL DEFAULT NULL ;
+
 ##Remove unwanted colkumns
 SELECT *
 FROM data_staging2;
 
 ALTER TABLE data_staging2
-DROP COLUMN id;
+DROP COLUMN id,
+DROP COlUMN row_num;
