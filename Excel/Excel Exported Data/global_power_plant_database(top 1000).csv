@@ -1,0 +1,1001 @@
+country,country_long,name,capacity_mw,latitude,longitude,primary_fuel,estimated_generation_gwh_2013,estimated_generation_gwh_2014,estimated_generation_gwh_2015,estimated_generation_gwh_2016,estimated_generation_gwh_2017
+CHN,China,Three Gorges Dam,22500,30.8235,111.0032,Hydro,,,,,82810.77
+JPN,Japan,Kashiwazaki Kariwa,8212,37.4259,138.5941,Nuclear,,,,,65600.32
+CHN,China,Baihetan Dam,13050,28.2606,103.6484,Hydro,48675.06,58470.77,57113.35,60859.73,58470.77
+CHN,China,Xiluodu,12600,28.26,103.65,Hydro,46996.61,56454.54,55143.92,58761.11,56454.54
+PRY,Paraguay,Itaipu Binacional Dam (Paraguay part),7000,-25.4081,-54.5889,Hydro,35230.22,34666.61,35230.22,,47320.15
+VEN,Venezuela,Simon Bolivar (Guri),8851,7.7659,-62.9982,Hydro,44579.67,43535.76,43535.76,44701.81,41176.73
+TWN,Taiwan,Taizhong Taichung,5500,24.2131,120.485,Coal,,,,,38890.93
+RUS,Russia,Surgutskaya GRES-2,8865,61.2794,73.4889,Gas,,,,,38888.43
+KOR,South Korea,Yeongheung,5080,37.2369,126.4361,Coal,,,,,38433.66
+JPN,Japan,Ohi,4710,35.5424,135.6544,Nuclear,,,,,37625.12
+KOR,South Korea,Hanbit,5900,35.4105,126.4175,Nuclear,,,,,37484.77
+KOR,South Korea,Hanul,5900,37.0931,129.383,Nuclear,,,,,37484.77
+UKR,Ukraine,Zaporozhye,6000,47.5119,34.5863,Nuclear,,,,,36992.5
+JPN,Japan,Fukushima Daina,4400,37.3164,141.0265,Nuclear,,,,,35148.73
+CHN,China,East Hope Metals Wucaiwan power station,7000,44.6885,89.1138,Coal,,,,,34108.83
+USA,United States of America,Palo Verde,4209.6,33.3881,-112.8617,Nuclear,,,,,33395.96
+FRA,France,GRAVELINES,5460,51.0141,2.1332,Nuclear,,,,,33014.17
+CHN,China,Datang Tuoketuo power station,6720,40.1947,111.3589,Coal,,,,,32744.48
+CAN,Canada,Robert-Bourassa,5616,53.7818,-77.5305,Hydro,33056.17,32892.49,33258.5,32982.61,32690.16
+FRA,France,PALUEL,5320,49.8582,0.6354,Nuclear,,,,,32167.66
+FRA,France,CATTENOM,5200,49.416,6.2169,Nuclear,,,,,31442.07
+BRA,Brazil,Itaipu (Parte Brasileira),7000,-25.4269,-54.5931,Hydro,,33088.81,33119.47,33210.21,31363.63
+CHN,China,Hongyanhe,4183,39.8,121.48,Nuclear,,,,,30881.4
+CHN,China,Qinshan 2,4101,30.433,120.9501,Nuclear,,,,,30276.02
+KOR,South Korea,Boryeong (poryang),4000,36.402,126.49,Coal,,,,,30262.73
+KOR,South Korea,Dangjin,4000,37.0543,126.5133,Coal,,,,,30262.73
+KOR,South Korea,Hadong,4000,34.9512,127.8213,Coal,,,,,30262.73
+KOR,South Korea,Taean,4000,36.904,126.233,Coal,,,,,30262.73
+CHN,China,Ningde,4072,27.0446,120.2855,Nuclear,,,,,30061.93
+MYS,Malaysia,Manjung power station,4180,4.1586,100.6423,Coal,,,,,29813.52
+TWN,Taiwan,Mailao,4200,23.8033,120.1902,Coal,,,,,29698.53
+CHN,China,Fuqing,4000,25.4426,119.444,Nuclear,,,,,29530.38
+CHN,China,Yangjiang,4000,21.71,112.26,Nuclear,,,,,29530.38
+IDN,Indonesia,PLTU Paiton I Unit 7 & 8,5355,-7.7184,113.5827,Coal,,,,,29141.78
+CHN,China,Ling Ao,3914,22.6,114.55,Nuclear,,,,,28895.48
+JPN,Japan,Hamaoka,3617,34.6235,138.1421,Nuclear,,,,,28893.86
+CHN,China,Xiangjiaba,6448,28.6437,104.393,Hydro,24050.32,28890.38,28219.68,30070.76,28890.38
+RUS,Russia,Balakovo NPP,4000,52.0928,47.9539,Nuclear,,,,,28565.42
+RUS,Russia,Kalinn NPP,4000,57.905,35.0614,Nuclear,,,,,28565.42
+RUS,Russia,Kursk,4000,51.675,35.6056,Nuclear,,,,,28565.42
+RUS,Russia,Leningrad NPP,4000,59.8528,29.0486,Nuclear,,,,,28565.42
+RUS,Russia,Rostov NPP,4000,47.5993,42.3717,Nuclear,,,,,28565.42
+SWE,Sweden,Ringhals,3932,57.2574,12.1087,Nuclear,,,,,27971.48
+JPN,Japan,Genkai,3478,33.5152,129.836,Nuclear,,,,,27783.47
+USA,United States of America,Browns Ferry,3494,34.7042,-87.1189,Nuclear,,,,,27718.9
+JPN,Japan,Takahama,3392,35.5223,135.5036,Nuclear,,,,,27096.48
+JPN,Japan,Hekinan power station,4100,34.8352,136.9609,Coal,,,,,26937
+USA,United States of America,Grand Coulee,6809,47.9575,-118.9773,Hydro,28430.08,28357.88,33342.94,28435.57,26111.69
+SAU,Saudi Arabia,GHAZLAN,4256,26.85,49.896,Gas,,,,,26070.14
+CAN,Canada,Darlington,3740,43.8697,-78.7239,Nuclear,,,,,26045.79
+CAN,Canada,Churchill Falls,5428,53.5294,-63.9651,Hydro,22385.04,22385.04,22699.3,22761.49,25672.77
+CHN,China,Waigaoqiao power station,5240,31.3536,121.6003,Coal,,,,,25532.89
+SAU,Saudi Arabia,Hajr for Electricity Production Co. Station,4098,25.83,50.132,Gas,,,,,25102.31
+IND,India,VINDH_CHAL STPS,4760,24.0983,82.6719,Coal,,,,,25075.47
+RUS,Russia,CHP-23,5690,55.9162,37.6879,Gas,,,,,24960.54
+CHN,China,Guodian Beilun power station,5060,29.9433,121.8131,Coal,,,,,24655.81
+KOR,South Korea,Samcheonpo,3240,34.9103,128.1085,Coal,,,,,24512.81
+CHN,China,Guohua Taishan power station,5000,21.8664,112.9228,Coal,,,,,24363.45
+CHN,China,Jiaxing power station,5000,30.6283,121.1436,Coal,,,,,24363.45
+IND,India,MUNDRA TPP,4620,22.823,69.5532,Coal,,,,,24337.96
+BRA,Brazil,Tucuruí,8535,-3.8322,-49.6522,Hydro,24669.32,32649.15,27270.48,29915,24000.54
+ZAF,South Africa,Kendal power station,4116,-26.088,28.9689,Coal,,,,,23759.51
+ZAF,South Africa,Majuba power station,4110,-27.0955,29.7706,Coal,,,,,23724.88
+CAN,Canada,Bruce B,3390,44.319,-81.6027,Nuclear,,,,,23608.35
+SAU,Saudi Arabia,QURAYYAH- CC,3846,25.86,50.118,Gas,,,,,23558.68
+KAZ,Kazakhstan,Ekibastuz-1 power station,4000,51.888,75.377,Coal,,,,,23506.59
+MYS,Malaysia,Tanjung Bin power station,3244,1.334,103.5422,Coal,,,,,23137.57
+ZAF,South Africa,Matimba power station,3990,-23.6678,27.6128,Coal,,,,,23032.18
+RUS,Russia,Krasnoyarsk,6000,55.9367,92.2956,Hydro,26888.95,23009.27,25052.2,27343.24,23009.27
+SWE,Sweden,Forsmark,3227,60.4028,18.1744,Nuclear,,,,,22956.25
+ARE,United Arab Emirates,Shuweihat S1,4889,24.165,52.568,Gas,,,,,22917.06
+USA,United States of America,Peach Bottom,2876.4,39.7589,-76.2687,Nuclear,,,,,22819.3
+JPN,Japan,Futtsu,5040,35.3421,139.8319,Gas,,,,,22802.51
+POL,Poland,Bełchatów,5472,51.2679,19.3265,Coal,,,,,22729.96
+USA,United States of America,Turkey Point,2861.2,25.4356,-80.3308,Nuclear,,,,,22698.72
+CAN,Canada,Bruce A,3220,44.3391,-81.5747,Nuclear,,,,,22424.45
+FRA,France,CRUAS,3660,44.6325,4.7546,Nuclear,,,,,22130.38
+FRA,France,TRICASTIN 1,3660,44.3311,4.7311,Nuclear,,,,,22130.38
+CHN,China,CPI Pingwei power station,4540,32.6842,116.9021,Coal,,,,,22122.01
+CHN,China,Zouxian power station,4540,35.3256,116.9261,Coal,,,,,22122.01
+CHN,China,Datong - Tashan Coal,4520,39.9261,113.0843,Coal,,,,,22024.56
+FRA,France,BLAYAIS,3640,45.256,-0.6932,Nuclear,,,,,22009.45
+FRA,France,CHINON,3620,47.2254,0.1656,Nuclear,,,,,21888.52
+JPN,Japan,Higashi Niigata,4810,37.9963,139.2373,Gas,,,,,21761.92
+JPN,Japan,Kawagoe,4802,35.0076,136.689,Gas,,,,,21725.72
+FRA,France,BUGEY,3580,45.7973,5.2706,Nuclear,,,,,21646.65
+FRA,France,DAMPIERRE,3560,47.7321,2.5185,Nuclear,,,,,21525.72
+USA,United States of America,South Texas Project,2708.6,28.795,-96.0481,Nuclear,,,,,21488.1
+CHN,China,Huaneng Qinbei power station,4400,35.1679,112.7162,Coal,,,,,21439.83
+CHN,China,Ninghai power station,4400,29.481,121.5109,Coal,,,,,21439.83
+RUS,Russia,Smolensk,3000,54.1647,33.2367,Nuclear,,,,,21424.06
+ZAF,South Africa,Lethabo power station,3708,-26.7403,27.975,Coal,,,,,21404.34
+KOR,South Korea,Shin-Kori,3340,35.3271,129.3017,Nuclear,,,,,21220.19
+USA,United States of America,Oconee,2666.7,34.7939,-82.8986,Nuclear,,,,,21155.69
+ZAF,South Africa,Tutuka power station,3654,-26.7767,29.3527,Coal,,,,,21092.63
+IND,India,MUNDRA UMPP,4000,22.8158,69.5281,Coal,,,,,21071.83
+IND,India,SASAN UMPP,3960,23.9784,82.6275,Coal,,,,,20861.11
+ZAF,South Africa,Duvha power station,3600,-25.9595,29.3409,Coal,,,,,20780.91
+ZAF,South Africa,Matla power station,3600,-26.2804,29.1423,Coal,,,,,20780.91
+CHN,China,Houshi power station,4200,24.3031,118.1261,Coal,,,,,20465.3
+CHN,China,Huaneng Yuhuan power station,4200,28.1142,121.1398,Coal,,,,,20465.3
+BEL,Belgium,DOEL 4,2910,51.3254,4.2597,Nuclear,,,,,20203.97
+CHN,China,Huaneng Haimen power station,4144,23.1899,116.6553,Coal,,,,,20192.43
+USA,United States of America,Watts Bar Nuclear Plant,2539.8,35.6021,-84.7895,Nuclear,,,,,20148.96
+USA,United States of America,TalenEnergy Susquehanna,2532,41.0919,-76.1462,Nuclear,,,,,20087.08
+CHN,China,Castle Peak power station,4108,22.376,113.9214,Coal,,,,,20017.01
+KOR,South Korea,Kori,3137,35.3199,129.2948,Nuclear,,,,,19930.46
+CHN,China,Guodian Taizhou power station,4000,32.1872,119.9145,Coal,,,,,19490.76
+CHN,China,Datong power station,3990,40.0279,113.2933,Coal,,,,,19442.03
+USA,United States of America,Braidwood Generation Station,2449.8,41.2435,-88.2286,Nuclear,,,,,19434.96
+USA,United States of America,Byron Generating Station,2449.8,42.0742,-89.2819,Nuclear,,,,,19434.96
+USA,United States of America,Sequoyah,2441,35.2267,-85.0917,Nuclear,,,,,19365.15
+USA,United States of America,McGuire,2440.6,35.4331,-80.9486,Nuclear,,,,,19361.98
+CHN,China,Guangdong Shajiao power complex,3970,22.7489,113.6807,Coal,,,,,19344.58
+CHN,China,Ligang power station,3960,31.9403,120.0764,Coal,,,,,19295.85
+CHN,China,Xinyuan Aluminum power station,3960,36.6148,116.2194,Coal,,,,,19295.85
+USA,United States of America,Comanche Peak,2430,32.2984,-97.7855,Nuclear,,,,,19277.88
+USA,United States of America,Vogtle,2430,33.1427,-81.7625,Nuclear,,,,,19277.88
+THA,Thailand,Bang Pakong,4384,13.501,101.0253,Gas,,,,,19171.61
+USA,United States of America,Catawba,2410.2,35.0514,-81.0694,Nuclear,,,,,19120.8
+KWT,Kuwait,Az Zour South CCGT,5805,28.7072,48.3742,Gas,,,,,19049.96
+USA,United States of America,PSEG Salem Generating Station,2381.8,39.4625,-75.5358,Nuclear,,,,,18895.5
+CHN,China,Shidongkou power station,3820,31.4651,121.4048,Coal,,,,,18613.67
+CHN,China,Longtan,6300,25.0277,107.0431,Hydro,18392.19,20393.51,19193.32,22304.87,18607.73
+USA,United States of America,LaSalle Generating Station,2340,41.2455,-88.6691,Nuclear,,,,,18563.89
+SWE,Sweden,Oskarshamn,2603,57.413,16.6683,Nuclear,,,,,18517.23
+USA,United States of America,W A Parish,4008.4,29.4828,-95.6311,Coal,,,,,18515.5
+IDN,Indonesia,PLTU Suralaya,3400,-5.892,106.03,Coal,,,,,18502.72
+UKR,Ukraine,South Ukraine,3000,47.812,31.22,Nuclear,,,,,18496.25
+USA,United States of America,Diablo Canyon,2323,35.2115,-120.8555,Nuclear,,,,,18429.02
+CHN,China,Suizhong power station,3760,40.0793,120.0089,Coal,,,,,18321.31
+SAU,Saudi Arabia,SHAIBA (SEC),6794,20.63,39.555,Oil,,,,,18287.07
+FRA,France,CHOOZ,3000,50.09,4.7894,Nuclear,,,,,18139.65
+USA,United States of America,Donald C Cook,2285.3,41.9756,-86.5652,Nuclear,,,,,18129.94
+CHN,China,Huaneng Shangdu power station,3720,42.2237,116.0293,Coal,,,,,18126.4
+FRA,France,CIVAUX,2990,46.4563,0.6548,Nuclear,,,,,18079.19
+USA,United States of America,Limerick,2277,40.2243,-75.5874,Nuclear,,,,,18064.09
+SAU,Saudi Arabia,MARAFIQ IWPP (1),2941.3,26.9,49.769,Gas,,,,,18016.94
+KOR,South Korea,Wolsong,2799,35.7111,129.4743,Nuclear,,,,,17783.03
+CHN,China,Wujiaqu power station,3640,44.2686,87.6881,Coal,,,,,17736.59
+KWT,Kuwait,Sabiya,5366.5,29.567,48.171,Gas,,,,,17610.96
+CHN,China,Nuozhadu,5850,22.6409,100.4287,Hydro,13753.82,18383.11,18942.35,19516.13,17536.51
+UKR,Ukraine,Rivne (Rouno),2835,51.3245,25.8974,Nuclear,,,,,17478.95
+IND,India,TIRORA TPP,3300,21.4129,79.9671,Coal,,,,,17384.26
+JPN,Japan,Onagawa,2174,38.4,141.5,Nuclear,,,,,17366.67
+ZAF,South Africa,Kriel power station,3000,-26.254,29.1801,Coal,,,,,17317.43
+DEU,Germany,Kernkraft Gundremmingen,2572,48.515,10.4016,Nuclear,,,,,17284.96
+USA,United States of America,Millstone,2162.9,41.3107,-72.1677,Nuclear,,,,,17158.9
+USA,United States of America,St Lucie,2160,27.3486,-80.2464,Nuclear,,,,,17135.89
+AUS,Australia,Bayswater,2640,-32.3953,150.9491,Coal,,,,,17049.59
+DEU,Germany,Niederaussem power station,3430,50.993,6.6685,Coal,,,,,16863.13
+UZB,Uzbekistan,Syrdarya,3000,40.2287,69.1005,Gas,,,,,16746.71
+CHN,China,Jiangsu Nantong power station,3404,32.0321,120.7692,Coal,,,,,16586.63
+CHN,China,Huaneng Yimin power station,3400,48.5497,119.7739,Coal,,,,,16567.14
+CHN,China,Jinping II,4400,28.2485,101.6445,Hydro,10826.98,15291.79,16543.15,18041.29,16543.15
+USA,United States of America,Scherer,3564,33.0606,-83.8075,Coal,,,,,16462.74
+CHN,China,SDIC Qinzhou power station,3360,21.7012,108.625,Coal,,,,,16372.24
+JPN,Japan,Sodegaura,3600,35.4619,139.977,Gas,,,,,16287.5
+CHN,China,Xuzhou Pengcheng power station,3340,34.3781,117.1763,Coal,,,,,16274.78
+CHN,China,CPI Changshu-1 power station,3320,31.7563,120.9731,Coal,,,,,16177.33
+CHN,China,Huadian Ningxia Lingwu power station,3320,38.1483,106.3463,Coal,,,,,16177.33
+USA,United States of America,Bowen,3498.6,34.1256,-84.9222,Coal,,,,,16160.64
+JPN,Japan,Ikata,2022,33.4909,132.3088,Nuclear,,,,,16152.44
+FRA,France,ST ALBAN,2670,45.4043,4.7554,Nuclear,,,,,16144.29
+ESP,Spain,CN ALMARAZ 1,2016.9,39.807,-5.6986,Nuclear,,,,,16113.15
+FRA,France,FLAMANVILLE,2660,49.5366,-1.8823,Nuclear,,,,,16083.83
+FRA,France,PENLY,2660,49.9764,1.2107,Nuclear,,,,,16083.83
+CHN,China,Yangcheng power station,3300,35.467,112.5739,Coal,,,,,16079.87
+CHN,China,Pu Bu Gou,4260,29.21,102.84,Hydro,13262.21,14805.23,14304.25,17467.25,16016.78
+USA,United States of America,Dresden Generating Station,2018.6,41.39,-88.27,Nuclear,,,,,16014.13
+USA,United States of America,Quad Cities Generating Station,2018.6,41.7261,-90.3103,Nuclear,,,,,16014.13
+JPN,Japan,Tomari,2000,43.0367,140.5125,Nuclear,,,,,15976.69
+THA,Thailand,Ratchaburi (RATCHGEN),3645,13.5979,99.8841,Gas,,,,,15939.9
+ESP,Spain,ASCO GR,1990.5,41.2008,0.5679,Nuclear,,,,,15902.24
+USA,United States of America,Brunswick Nuclear,2003.2,33.9597,-78.0114,Nuclear,,,,,15891.96
+CHN,China,Hanchuan power station,3260,30.6565,113.9173,Coal,,,,,15884.97
+CHN,China,Zhangjiagang Shazhou power station,3260,31.989,120.6884,Coal,,,,,15884.97
+FRA,France,BELLEVILLE,2620,47.5103,2.875,Nuclear,,,,,15841.96
+FRA,France,GOLFECH,2620,44.106,0.8443,Nuclear,,,,,15841.96
+FRA,France,NOGENT,2620,48.5171,3.5181,Nuclear,,,,,15841.96
+IND,India,RIHAND,3000,24.027,82.7915,Coal,,,,,15803.87
+IND,India,TALCHER STPS,3000,21.0966,85.074,Coal,,,,,15803.87
+RUS,Russia,Krostromskaya,3600,57.4596,41.1741,Gas,,,,,15792.25
+MEX,Mexico,Plutarco Elías Calles (Petacalco),2778.4,17.9837,-102.1154,Coal,,,,,15787.81
+IND,India,SIPAT STPS,2980,22.13,82.293,Coal,,,,,15698.51
+TUR,Turkey,Afşin Elbistan Termik Santrali,2795,38.3537,36.981,Coal,,,,,15654.31
+CHN,China,Ahai,4750,27.3488,100.5061,Hydro,11167.63,19482.09,14239.04,15846.43,15625.61
+BRA,Brazil,Belo Monte,3327.45544,-3.1264,-51.775,Hydro,17396.84,16761.09,16507.75,16552.98,15594.91
+CHN,China,Chaozhou Sanbaimen power station,3200,23.5655,117.0973,Coal,,,,,15592.61
+CHN,China,Fujian Hongshan power station,3200,24.7277,118.7497,Coal,,,,,15592.61
+CHN,China,Guangdong Huilai power station,3200,23.0056,116.5468,Coal,,,,,15592.61
+TWN,Taiwan,Hsinta (coal),2200,22.8558,120.1972,Coal,,,,,15556.37
+USA,United States of America,North Anna,1960.4,38.06,-77.7897,Nuclear,,,,,15552.41
+BGR,Bulgaria,KOZLODUY,2000,43.7438,23.7723,Nuclear,,,,,15544.99
+SGP,Singapore,Senoko I-VII CCGT Power Plants Singapore,2807,1.4655,103.7996,Gas,,,,,15498.48
+CHN,China,Dalate power station,3180,40.367,109.997,Coal,,,,,15495.15
+KOR,South Korea,Samcheok Green power station,2044,37.186,129.3418,Coal,,,,,15464.25
+USA,United States of America,Gibson,3339.5,38.3722,-87.7658,Coal,,,,,15425.73
+IND,India,CHANDRAPUR_Coal,2920,20.0063,79.29,Coal,,,,,15382.43
+SAU,Saudi Arabia,QURAYYAH -STEAM,2500,25.86,50.118,Gas,,,,,15313.76
+USA,United States of America,Monroe (MI),3293.1,41.8906,-83.3464,Coal,,,,,15211.4
+KOR,South Korea,Shin Boryeong power station,2000,36.3846,126.4862,Coal,,,,,15131.36
+HUN,Hungary,Paksi Atomerőmű,1886.8,46.5739,18.8536,Nuclear,,,,,15111.29
+USA,United States of America,Nine Mile Point Nuclear Station,1901.1,43.5211,-76.41,Nuclear,,,,,15081.97
+CAN,Canada,Pickering B,2160,43.8096,-79.0639,Nuclear,,,,,15042.49
+USA,United States of America,West County Energy Center,4263,26.6986,-80.3747,Gas,,,,,15033.45
+RUS,Russia,Bratsk HPP,4500,56.2861,101.7842,Hydro,19163.51,16490.82,17459.55,19216.02,14983.49
+MYS,Malaysia,Tg. Bin Energy,2100,1.3348,103.5422,Coal,,,,,14978.08
+CHN,China,Fangjiashan,2024,30.44,120.94,Nuclear,,,,,14942.37
+THA,Thailand,Mae Mah,2400,18.2963,99.7499,Coal,,,,,14910.59
+CZE,Czech Republic,Temelín,2133,49.1796,14.3795,Nuclear,,,,,14874.31
+IRN,Iran,Damavand C.C.,2800,35.4156,51.851,Gas,,,,,14872.54
+CHN,China,Fangchenggang,2000,21.67,108.56,Nuclear,,,,,14765.19
+RUS,Russia,Permskaya,3363,58.4959,56.3471,Gas,,,,,14752.6
+USA,United States of America,Calvert Cliffs Nuclear Power Plant,1850.4,38.4344,-76.4417,Nuclear,,,,,14679.75
+USA,United States of America,Edwin I Hatch,1848,31.9342,-82.3447,Nuclear,,,,,14660.71
+USA,United States of America,Beaver Valley,1846.8,40.6219,-80.4336,Nuclear,,,,,14651.19
+USA,United States of America,Arkansas Nuclear One,1845,35.311,-93.2351,Nuclear,,,,,14636.91
+CHN,China,Tianjin Beijiang power station,3000,39.2193,117.9293,Coal,,,,,14618.07
+CHN,China,Tianwan,1980,34.69,119.46,Nuclear,,,,,14617.54
+CHN,China,Jianbi power station,2990,32.1779,119.5755,Coal,,,,,14569.34
+KAZ,Kazakhstan,Aksu power station,2450,52.12,76.875,Coal,,,,,14397.78
+BEL,Belgium,TIHANGE 3,2053.8,50.5342,5.2751,Nuclear,,,,,14259.42
+BHR,Bahrain,Alba Power Station,2204,26.0945,50.6008,Gas,,,,,14257.01
+CZE,Czech Republic,Dukonavy,2040,49.0852,16.1479,Nuclear,,,,,14225.78
+JPN,Japan,Sendai,1780,31.8335,130.1887,Nuclear,,,,,14219.26
+AUS,Australia,Liddell,2200,-32.3713,150.9776,Coal,,,,,14207.99
+CHN,China,Datang Sanmenxia power station,2900,34.6847,111.0274,Coal,,,,,14130.8
+CAN,Canada,Sundance,2141,53.5075,-114.5569,Coal,,,,,14119.5
+USA,United States of America,Joseph M Farley,1776.4,31.2231,-85.1116,Nuclear,,,,,14092.69
+CAN,Canada,La Grande-3,2417,53.7274,-75.9874,Hydro,14158.88,14049.78,14069.11,14088.27,14086.95
+AUS,Australia,Loy Yang A,2180,-38.2536,146.5746,Coal,,,,,14078.82
+QAT,Qatar,Ras Laffan C (Ras Qartas) CCGT Power Plant Qatar,2730,25.936,51.5235,Gas,,,,,13972.94
+JPN,Japan,Shika,1746,37.0609,136.7265,Nuclear,,,,,13947.65
+CHN,China,Daya Bay,1888,22.6,114.54,Nuclear,,,,,13938.34
+FIN,Finland,Olkiluoto 1,1760,61.2371,21.4433,Nuclear,,,,,13929.4
+BRA,Brazil,Jirau,3750,-9.2664,-64.6478,Hydro,,,,,13864.76
+IND,India,ANPARA,2630,24.201,82.7891,Coal,,,,,13854.72
+JPN,Japan,Shin Nagoya,3058,35.0645,136.8767,Gas,,,,,13835.33
+JPN,Japan,J-POWER Tachibana-wan power station,2100,33.8572,134.6514,Coal,,,,,13797
+DEU,Germany,Janschwalde power station,2790,51.8344,14.459,Coal,,,,,13716.65
+MAR,Morocco,Centrale Thermique de Jorf Lasfar (JLEC),2020,33.1041,-8.6378,Coal,,,,,13710.21
+IND,India,KORBA STPS,2600,22.3881,82.6858,Coal,,,,,13696.69
+IND,India,R_GUNDEM STPS,2600,18.7572,79.456,Coal,,,,,13696.69
+CHN,China,Xiaowan,4200,24.7043,100.0913,Hydro,10883.86,12405.15,13747.91,15023.67,13599.64
+ZAF,South Africa,Arnot power station,2352,-25.9444,29.7917,Coal,,,,,13576.86
+CHN,China,Meizhou Wan power station,2786,25.1609,119.0334,Coal,,,,,13575.31
+USA,United States of America,John E Amos,2932.6,38.4731,-81.8233,Coal,,,,,13546.19
+CHN,China,Jinping I,3600,28.1823,101.6316,Hydro,8858.44,12511.46,13535.3,14761.05,13535.3
+USA,United States of America,Surry,1695,37.1661,-76.6986,Nuclear,,,,,13446.92
+RUS,Russia,Novovoronezh,1880,51.2822,39.21,Nuclear,,,,,13425.74
+IND,India,KUNDANKULAM,2000,8.1691,77.1327,Nuclear,,,,,13384.29
+IND,India,Kudankulam,2000,8.1689,77.7126,Nuclear,,,,,13384.29
+IND,India,Shri Singaji MALWA TPP,2520,22.0971,76.5317,Coal,,,,,13275.25
+CHN,China,Huaneng Fuzhou power station,2720,25.9909,119.4816,Coal,,,,,13253.71
+MOZ,Mozambique,Cahora Bassa,2075,-15.5859,32.7047,Hydro,,,,,13243.7
+ZAF,South Africa,Koeberg,1800,-33.6737,18.4281,Nuclear,,,,,13236.99
+BRA,Brazil,Santo Antônio,3568,-8.8011,-63.9497,Hydro,,,,,13191.86
+CHN,China,Henan Xinmi power station,2700,34.5,113.5986,Coal,,,,,13156.26
+JPN,Japan,Haramachi power station,2000,37.666,141.0165,Coal,,,,,13140
+JPN,Japan,Hitachinaka power station,2000,36.4368,140.6138,Coal,,,,,13140
+JPN,Japan,Matsuura power station,2000,33.3552,129.6925,Coal,,,,,13140
+JPN,Japan,Shinchi power station,2000,37.8427,140.9456,Coal,,,,,13140
+RUS,Russia,Reftinskaya GRES,3800,57.1067,61.7117,Coal,,,,,13126.79
+ITA,Italy,MONTALTO (Alessandro Volta),3446,42.3572,11.5373,Gas,,,,,13119.43
+USA,United States of America,James H Miller Jr,2822,33.6319,-87.0597,Coal,,,,,13035.31
+JPN,Japan,Chiba,2880,35.5648,140.1053,Gas,,,,,13030
+CHN,China,Huaneng Laiwu power station,2660,36.1339,117.685,Coal,,,,,12961.35
+CHN,China,Xinhai power station,2660,34.5782,119.1275,Coal,,,,,12961.35
+CHN,China,Huaneng Dezhou power station,2650,37.4493,116.2416,Coal,,,,,12912.63
+CHN,China,Huaneng Luohuang power station,2640,29.3467,106.4339,Coal,,,,,12863.9
+CHN,China,Lusigang power station,2640,32.0577,121.7267,Coal,,,,,12863.9
+CHN,China,Shenhua Anqing power station,2640,30.5411,117.1717,Coal,,,,,12863.9
+CHN,China,Shenhua Guoneng Hami power station,2640,42.4112,93.0092,Coal,,,,,12863.9
+CHN,China,WEnergy Maanshan Power Station,2640,31.7375,118.4797,Coal,,,,,12863.9
+CHN,China,Weiqiao Huji power station,2640,37.3588,117.7772,Coal,,,,,12863.9
+CHN,China,Weiqiao Zouping-1 power station,2640,36.9107,117.7854,Coal,,,,,12863.9
+CHN,China,Weiqiao Zouping-6 power station,2640,36.8979,117.7844,Coal,,,,,12863.9
+CHN,China,Weiqiao Zouping-7 power station,2640,36.8972,117.8613,Coal,,,,,12863.9
+CHN,China,Laxiwa,4200,36.0703,101.1855,Hydro,12310.78,12861.76,13034.94,16454.5,12861.76
+PAK,Pakistan,Tarbela,3478,34.0889,72.6861,Hydro,12794.61,12794.61,13568.19,13605.36,12794.61
+RUS,Russia,Ust Illminsk (HPP),3840,57.9683,102.6958,Hydro,16352.86,14072.16,15379.64,16397.67,12785.91
+EGY,Egypt,Kuriemat 2,2754,29.2693,31.224,Gas,,,,,12776.9
+DEU,Germany,Boxberg power station,2585,51.4163,14.5619,Coal,,,,,12708.8
+KOR,South Korea,Shin-Wolsong,2000,35.7221,129.4786,Nuclear,,,,,12706.7
+SAU,Saudi Arabia,Riyadh 8,2071.92,24.6,46.571,Gas,,,,,12691.55
+CHN,China,Puqi Xianning power station,2600,29.6653,113.8734,Coal,,,,,12668.99
+CHN,China,Tongling Wanneng power station,2600,30.8818,117.7644,Coal,,,,,12668.99
+KOR,South Korea,Incheon,3052,37.5111,126.6078,Gas,,,,,12651.09
+IND,India,KORADI,2400,21.2414,79.096,Coal,,,,,12643.09
+IND,India,KUDGI,2400,16.4994,75.8349,Coal,,,,,12643.09
+IND,India,TAMNAR TPP,2400,22.0987,83.4513,Coal,,,,,12643.09
+SAU,Saudi Arabia,Riyadh 12,2055.6,24.79,45.621,Gas,,,,,12591.58
+CHN,China,Fangchenggang Coal,2580,21.5918,108.3947,Coal,,,,,12571.54
+CHN,China,Huainan Tianji power station,2580,32.7456,116.8134,Coal,,,,,12571.54
+CHN,China,Pucheng power station,2580,34.9783,109.8,Coal,,,,,12571.54
+RUS,Russia,Kola NPP,1760,67.4667,32.4667,Nuclear,,,,,12568.78
+CHN,China,Zhangjiakou power station,2560,40.6597,114.9439,Coal,,,,,12474.08
+UZB,Uzbekistan,Tashkent,2230,41.3822,69.3677,Gas,,,,,12448.38
+CHN,China,Huaneng Shangan power station,2540,38.057,114.1966,Coal,,,,,12376.63
+UKR,Ukraine,Khmelnytska,2000,50.3024,26.6473,Nuclear,,,,,12330.83
+IND,India,KAHALGAON,2340,25.2349,87.2635,Coal,,,,,12327.02
+CHN,China,Huaneng Yueyang power station,2524,29.4498,113.1623,Coal,,,,,12298.67
+CHN,China,Anhui Bengbu power station,2520,32.7845,117.115,Coal,,,,,12279.18
+CHN,China,Daba power station,2520,37.9897,105.9258,Coal,,,,,12279.18
+CHN,China,Datang Ningde power station,2520,26.7575,119.7359,Coal,,,,,12279.18
+CHN,China,Dingzhou power station,2520,38.5122,114.8434,Coal,,,,,12279.18
+CHN,China,Guodian Baoji-2 power station,2520,34.498,107.2176,Coal,,,,,12279.18
+CHN,China,Huainan Fengtai power station,2520,32.7579,116.6492,Coal,,,,,12279.18
+CHN,China,Huaneng Pingliang power station,2520,35.5014,106.7871,Coal,,,,,12279.18
+CHN,China,Huanghua Cangzhou power station,2520,38.3094,117.879,Coal,,,,,12279.18
+CHN,China,Shanwei Honghaiwan power station,2520,22.7061,115.5543,Coal,,,,,12279.18
+CHN,China,Tieling power station,2520,42.345,123.803,Coal,,,,,12279.18
+CHN,China,Tongmei Tashan power station,2520,39.9792,113.1887,Coal,,,,,12279.18
+CHN,China,Yangxi Zhujiang power station,2520,21.5426,111.6703,Coal,,,,,12279.18
+CHN,China,Zheneng Wenzhou power station,2520,27.9963,120.8356,Coal,,,,,12279.18
+CHN,China,Zheneng Yueqing power station,2520,28.1704,121.0889,Coal,,,,,12279.18
+CAN,Canada,La Grande-2-A,2106,53.7808,-77.5483,Hydro,12396.06,12334.68,12471.94,12368.48,12258.81
+IND,India,CHHABRA TPS,2320,24.6217,77.0357,Coal,,,,,12221.66
+IND,India,MOUDA STPS,2320,21.1797,79.3978,Coal,,,,,12221.66
+CHN,China,CKI Lamma power station,2500,22.2185,114.1082,Coal,,,,,12181.72
+CHN,China,Huainan Luohe power station,2500,32.6837,117.0753,Coal,,,,,12181.72
+USA,United States of America,Crystal River,3449,28.9656,-82.6977,Gas,,,,,12162.88
+VNM,Vietnam,Ca Mau 1,1542,9.242,105.06,Gas,,,,,12132.04
+MYS,Malaysia,Kapar Energy Ventures (KEV),2420,3.1167,101.3217,Gas,,,,,12092.77
+USA,United States of America,Cumberland (TN),2600,36.3903,-87.6539,Coal,,,,,12009.85
+USA,United States of America,Gavin Power  LLC,2600,38.9347,-82.1158,Coal,,,,,12009.85
+USA,United States of America,Rockport,2600,37.9256,-87.0372,Coal,,,,,12009.85
+CHN,China,Xishan Gujiao power station,2460,37.8915,112.0886,Coal,,,,,11986.81
+CHN,China,Yangzhou-2 power station,2460,32.2684,119.4193,Coal,,,,,11986.81
+USA,United States of America,Trimble County,2594.1,38.5847,-85.4117,Coal,,,,,11982.6
+CHN,China,Daihai power station,2430,40.5204,112.6674,Coal,,,,,11840.63
+JPN,Japan,Maizuru power station,1800,35.527,135.342,Coal,,,,,11826
+USA,United States of America,Roxboro,2558.2,36.4833,-79.0731,Coal,,,,,11816.77
+VEN,Venezuela,Manuel Piar (Tocoma) Hydroelectric Power Plant Venezuela,2530,7.8997,-63.0322,Hydro,12742.8,12444.41,12444.41,12777.71,11770.09
+CHN,China,Gezhouba,3190,30.7397,111.2695,Hydro,,,,,11740.72
+CHN,China,Gou Pi Tan,3000,27.3744,107.633,Hydro,8574.45,11767.01,9916.15,12738.79,11716.14
+TUR,Turkey,Zonguldak Eren (ZETES),2090,41.5035,31.8875,Coal,,,,,11705.73
+SAU,Saudi Arabia,RABIGH,4348.3,22.66,39.033,Oil,,,,,11704.1
+CHN,China,Datang Wushashan power station,2400,29.505,121.6627,Coal,,,,,11694.45
+CHN,China,Diandong power station,2400,25.1995,104.6826,Coal,,,,,11694.45
+CHN,China,Fuzhou Kemen power station,2400,26.3736,119.7621,Coal,,,,,11694.45
+CHN,China,Guangan power station,2400,30.5288,106.8256,Coal,,,,,11694.45
+CHN,China,Guizhou Faer power station,2400,26.3251,104.7706,Coal,,,,,11694.45
+CHN,China,Hancheng power station,2400,35.6002,110.5557,Coal,,,,,11694.45
+CHN,China,Huaneng Yangluo power station,2400,30.6931,114.5437,Coal,,,,,11694.45
+CHN,China,Lanxi power station,2400,29.1861,119.5068,Coal,,,,,11694.45
+CHN,China,Panxian-2 power station,2400,25.4692,104.5924,Coal,,,,,11694.45
+CHN,China,Shenhua Guohua Jinjie power station,2400,38.7365,110.1661,Coal,,,,,11694.45
+CHN,China,Shenhua Hequ power station,2400,39.3829,111.1852,Coal,,,,,11694.45
+CHN,China,Xiangfan power station,2400,31.9122,112.1662,Coal,,,,,11694.45
+CHN,China,Xibaipo power station,2400,38.2451,114.2149,Coal,,,,,11694.45
+ISR,Israel,Orot Rabin,2590,32.47,34.888,Coal,,,,,11668.74
+CAN,Canada,Mica,2746,52.0759,-118.5705,Hydro,12314.04,11596.55,11596.55,12347.78,11624.65
+CHN,China,Ertan,3300,26.82,101.78,Hydro,9480.5,11614.32,11649.51,11371.76,11614.32
+CHN,China,Huolinhe Zhanute power station,2380,45.4098,119.5971,Coal,,,,,11597
+ZAF,South Africa,Hendrina power station,2000,-26.0314,29.6014,Coal,,,,,11544.95
+USA,United States of America,Belews Creek,2491.2,36.2811,-80.0603,Coal,,,,,11507.28
+USA,United States of America,Grand Gulf,1440,32.0081,-91.0478,Nuclear,,,,,11423.93
+MYS,Malaysia,Sultan Aziz power station,1600,3.1172,101.3204,Coal,,,,,11411.87
+USA,United States of America,Sherburne County,2469.3,45.3808,-93.8931,Coal,,,,,11406.12
+USA,United States of America,FirstEnergy W H Sammis,2468.1,40.5317,-80.6319,Coal,,,,,11400.58
+ARE,United Arab Emirates,APC UAN,2430,24.4375,54.491,Gas,,,,,11390.56
+RUS,Russia,Kirishskaya GRES,2595,59.4892,32.0503,Gas,,,,,11383.58
+USA,United States of America,Jim Bridger,2441.9,41.7378,-108.7875,Coal,,,,,11279.56
+JPN,Japan,Nakoso power station,1700,36.9128,140.8128,Coal,,,,,11169
+CHN,China,Gansu Wind Farm,6000,40.6876,95.7329,Wind,,,,,11133.67
+POL,Poland,Kozienice,2673,51.6658,21.4647,Coal,,,,,11103.28
+TJK,Tajikistan,Nurek,3015,38.3717,69.3481,Hydro,9436.64,11269.84,11095.59,11125.99,11095.59
+FRA,France,ST LAURENT,1830,47.7197,1.5783,Nuclear,,,,,11065.19
+IND,India,FARAKKA STPS,2100,24.772,87.894,Coal,,,,,11062.71
+RUS,Russia,Konakovskaya,2520,56.741,36.7707,Gas,,,,,11054.58
+USA,United States of America,Cross,2390.1,33.3715,-80.1132,Coal,,,,,11040.29
+USA,United States of America,Labadie,2389.4,38.5622,-90.8377,Coal,,,,,11037.05
+CHN,China,Panshan power station,2260,39.9793,117.4628,Coal,,,,,11012.28
+USA,United States of America,Martin Lake,2379.6,32.2606,-94.5706,Coal,,,,,10991.78
+USA,United States of America,Colstrip,2363.4,45.8831,-106.614,Coal,,,,,10916.95
+BGD,Bangladesh,Ashuganj (Aggreko),1649,24.0426,91.0158,Gas,,,,,10893.54
+CAN,Canada,G.M. Shrum,2730,56.0148,-122.1957,Hydro,11434.96,11395.32,11049.8,11126.49,10873.59
+AUS,Australia,Gladstone,1680,-23.8508,151.2187,Coal,,,,,10849.73
+JPN,Japan,Tomato-atsuma power station,1650,42.612,141.805,Coal,,,,,10840.5
+IRN,Iran,Shahid Rajaee,2040,36.1595,50.2997,Gas,,,,,10835.71
+RUS,Russia,Iriklinskaya,2444,51.754,58.8033,Gas,,,,,10721.18
+FRA,France,FESSENHEIM,1760,47.9032,7.5631,Nuclear,,,,,10641.93
+RUS,Russia,Stavropolskaya GRES,2415,45.3122,41.5111,Gas,,,,,10593.97
+RUS,Russia,Beloyarsk,1480,56.8417,61.3225,Nuclear,,,,,10569.2
+IND,India,SIMHADRI,2000,17.591,83.0917,Coal,,,,,10535.91
+IND,India,SINGRAULI STPS,2000,24.1033,82.7068,Coal,,,,,10535.91
+CHN,China,Xinjiang Qiya Smelter power station,2160,44.8594,89.0243,Coal,,,,,10525.01
+CHN,China,Yaomeng power station,2160,33.7375,113.2419,Coal,,,,,10525.01
+CAN,Canada,Revelstoke,2480,51.0486,-118.1939,Hydro,11157.22,11121.2,11121.2,11187.79,10473.21
+SRB,Serbia,TENT A,1730,44.6711,20.1593,Coal,,,,,10443.39
+EGY,Egypt,North Giza,2250,30.2483,30.9471,Gas,,,,,10438.64
+EGY,Egypt,Nubaria,2250,30.6993,30.6671,Gas,,,,,10438.64
+IND,India,LALITPUR TPP,1980,24.7971,78.6463,Coal,,,,,10430.55
+IND,India,PRYAGRAJ (BARA) TPP,1980,25.196,81.6594,Coal,,,,,10430.55
+IND,India,TALWANDI SABO,1980,29.924,75.2372,Coal,,,,,10430.55
+BRA,Brazil,Ilha Solteira,3444,-20.3822,-51.3636,Hydro,6318.07,13271.41,13738.16,12692.9,10428.38
+USA,United States of America,Perry,1311.6,41.8006,-81.1439,Nuclear,,,,,10405.29
+USA,United States of America,Robert Moses Niagara,2429.1,43.1427,-79.0394,Hydro,11828.5,11802.75,12825.76,12156.64,10402.61
+USA,United States of America,Point Beach Nuclear Plant,1311,44.2806,-87.5369,Nuclear,,,,,10400.53
+JPN,Japan,Shin Oita,2295,33.2672,131.7076,Gas,,,,,10383.28
+ROU,Romania,NPP Cernavoda,1298,44.3215,28.0568,Nuclear,,,,,10374.08
+EGY,Egypt,Abu Kir,2236,31.2694,30.1409,Gas,,,,,10373.69
+BRA,Brazil,Xingó,3162,-9.6209,-37.7924,Hydro,11872.97,11405.07,10951.39,10548.72,10350.21
+AUS,Australia,Hazelwood,1600,-38.2731,146.3923,Coal,,,,,10333.08
+CHN,China,XPCC Shihezi Cogen power station,2120,44.4281,86.0936,Coal,,,,,10330.1
+DEU,Germany,BoA 2,2100,51.0365,6.6133,Coal,,,,,10324.36
+ARE,United Arab Emirates,TAPCO,2200,24.768,54.6873,Gas,,,,,10312.44
+USA,United States of America,Indian Point 2,1299,41.2706,-73.9527,Nuclear,,,,,10305.33
+BRA,Brazil,Almirante Álvaro Alberto - Unidade II (Antiga Angra II),1350,-23.0072,-44.4588,Nuclear,,,,,10304.38
+USA,United States of America,Ghent,2225.9,38.7497,-85.035,Coal,,,,,10281.82
+ARG,Argentina,COSTANERA,1982.2,-34.626,-58.3393,Coal,,,,,10273.7
+QAT,Qatar,Mesaieed CCGT Power Plant Qatar,2007,24.9753,51.5783,Gas,,,,,10272.41
+NLD,Netherlands,Eems,2465,53.4441,6.856,Gas,,,,,10262.1
+CHN,China,Shenhua Jiujiang power station,2104,29.8266,116.376,Coal,,,,,10252.14
+USA,United States of America,PSEG Hope Creek Generating Station,1290.7,39.4666,-75.5377,Nuclear,,,,,10239.49
+VEN,Venezuela,Fransisco de Miranda (Caruachi),2196,8.16,-62.8,Hydro,11060.55,10801.55,10801.55,11090.85,10216.26
+CHN,China,Hezhou power station,2090,24.7361,111.3464,Coal,,,,,10183.92
+USA,United States of America,R M Schahfer,2201.4,41.2164,-87.0261,Coal,,,,,10168.65
+DEU,Germany,Neurath power station,2068,51.0395,6.615,Coal,,,,,10167.04
+USA,United States of America,Fermi,1281,41.9631,-83.2581,Nuclear,,,,,10162.54
+IRN,Iran,Kerman,1912,30.21,56.7932,Gas,,,,,10155.82
+ISR,Israel,Rutenberg,2250,31.6299,34.5216,Coal,,,,,10136.93
+TUR,Turkey,Atatürk Dam,2400,37.4825,38.3186,Hydro,8321.22,5863.17,8202.58,8506.5,10131.42
+CHN,China,Huadian Laizhou power station,2078,37.4323,120.0177,Coal,,,,,10125.45
+PRT,Portugal,Sines power station,1296,37.9322,-8.8038,Coal,,,,,10120.94
+GBR,United Kingdom,Pembroke,2180,51.685,-4.99,Gas,,,,,10115.32
+USA,United States of America,Wolf Creek Generating Station,1267.7,38.2393,-95.6898,Nuclear,,,,,10057.02
+USA,United States of America,Jack McDonough,2848.4,33.8239,-84.4758,Gas,,,,,10044.87
+CHN,China,Huadian Shiliquan power station,2060,34.8144,117.5731,Coal,,,,,10037.74
+CHN,China,Huaneng Jinling power station,2060,32.1716,119.0195,Coal,,,,,10037.74
+CHN,China,Pingdingshan Luyang power station,2060,33.8211,113.0146,Coal,,,,,10037.74
+CHN,China,Rizhao power station,2060,35.345,119.5111,Coal,,,,,10037.74
+CHN,China,Shuangliao West power station,2060,43.5282,123.463,Coal,,,,,10037.74
+MEX,Mexico,Laguna Verde,1510,19.7208,-96.4064,Nuclear,,,,,10020.32
+MYS,Malaysia,Jimah power station,1400,2.5903,101.7246,Coal,,,,,9985.39
+DEU,Germany,ISAR-2,1485,48.6049,12.2936,Nuclear,,,,,9979.84
+RUS,Russia,Boguchanskaya HPP,2997,58.6944,99.1489,Hydro,12762.9,10982.88,12003.33,,9979
+USA,United States of America,Jeffrey Energy Center,2160,39.2865,-96.1172,Coal,,,,,9977.41
+BLR,Belarus,Lukoml Thermal Power Plant Belarus,2460,54.6803,29.1341,Gas,,,,,9961.97
+BHR,Bahrain,Al Dur Power and Water,1540,25.9714,50.6076,Gas,,,,,9961.79
+USA,United States of America,AES Petersburg,2154.8,38.5281,-87.2525,Coal,,,,,9953.39
+DEU,Germany,BROKDORF,1480,53.8506,9.345,Nuclear,,,,,9946.24
+CHN,China,Shuangyashan power station,2040,46.5629,131.6684,Coal,,,,,9940.28
+ARE,United Arab Emirates,FAPCO (Fuj F2),2114,25.3142,56.3728,Gas,,,,,9909.32
+MEX,Mexico,Manuel Moreno Torres (Chicoasén),2400,16.9428,-93.1012,Hydro,11500.45,9090.78,10497.19,10525.95,9885.87
+CHN,China,Dagangshan,2600,29.45,102.22,Hydro,8202.65,8730.29,9775.5,10861.44,9883.84
+CHN,China,Guanyinyan,3000,26.52,101.44,Hydro,7053.24,12304.48,8993.08,10008.27,9868.81
+DEU,Germany,PHILIPPSBURG-2,1468,49.2529,8.4364,Nuclear,,,,,9865.6
+JPN,Japan,Toyama Shinko power station,1500,36.7654,137.1286,Coal,,,,,9855
+USA,United States of America,Seabrook,1242,42.8992,-70.8489,Nuclear,,,,,9853.14
+CHN,China,Guodian Shizuishan-2 power station,2020,39.2848,106.788,Coal,,,,,9842.83
+CHN,China,Huadian Xisaishan power station,2020,30.2031,115.1803,Coal,,,,,9842.83
+CHN,China,Xuchang Yulong power station,2020,34.1748,113.3581,Coal,,,,,9842.83
+UZB,Uzbekistan,Navoi,1758,40.1569,65.3104,Gas,,,,,9813.57
+USA,United States of America,Callaway,1235.8,38.7589,-91.7788,Nuclear,,,,,9803.95
+USA,United States of America,Marshall (NC),2119,35.5975,-80.9658,Coal,,,,,9788.03
+CHN,China,Binhai Port Unit 1,2000,34.3071,120.2469,Coal,,,,,9745.38
+CHN,China,Bohe Coal,2000,22.9657,112.1079,Coal,,,,,9745.38
+CHN,China,Datang Fuzhou power station,2000,27.7855,116.5638,Coal,,,,,9745.38
+CHN,China,Datang Shentou power station,2000,39.3648,112.5333,Coal,,,,,9745.38
+CHN,China,Guangdong Huizhou Pinghai power station,2000,22.6059,114.7419,Coal,,,,,9745.38
+CHN,China,Guohua Shouguang power station,2000,37.2697,118.9069,Coal,,,,,9745.38
+CHN,China,Guohua Xuzhou power station,2000,34.3858,117.256,Coal,,,,,9745.38
+CHN,China,Huadian Jurong power station,2000,32.1949,119.2494,Coal,,,,,9745.38
+CHN,China,Huadian Weifang power station,2000,36.6656,119.2632,Coal,,,,,9745.38
+CHN,China,Huarun Cangnan power station,2000,27.4974,120.663,Coal,,,,,9745.38
+CHN,China,Liulin Liansheng power station,2000,37.4079,110.7761,Coal,,,,,9745.38
+CHN,China,Lixin Banji power station,2000,32.8972,116.2425,Coal,,,,,9745.38
+CHN,China,Shanghai Caojing power station,2000,30.7607,121.4008,Coal,,,,,9745.38
+CHN,China,Shanwei Haifeng power station,2000,22.7545,115.0426,Coal,,,,,9745.38
+CHN,China,Shenhua Wanzhou power station,2000,30.6777,108.399,Coal,,,,,9745.38
+CHN,China,Taishan Expansion Coal Power Plant,2000,21.8661,112.9213,Coal,,,,,9745.38
+CHN,China,Zhejiang Taizhou-2 power station,2000,29.0132,121.6955,Coal,,,,,9745.38
+CHN,China,Zheneng Liuheng power station,2000,29.7592,122.1262,Coal,,,,,9745.38
+SAU,Saudi Arabia,Riyadh 9,3616.6,24.95,47.065,Oil,,,,,9734.62
+EGY,Egypt,Sidi Krir,2092,31.043,29.6652,Gas,,,,,9705.62
+ARE,United Arab Emirates,"Jebel Ali ""M""",2060,25.0592,55.1181,Gas,,,,,9656.19
+CAN,Canada,La Grande-4,2779,53.8864,-73.466,Hydro,10811.36,10360.69,13563.38,10859.31,9654.51
+RUS,Russia,Zainskaya GRES,2200,55.2903,52.0228,Gas,,,,,9650.82
+DEU,Germany,GKM (Mannheim) power station,1958,49.4452,8.4891,Coal,,,,,9626.24
+SAU,Saudi Arabia,JUBAIL (SWCC),1570,26.91,49.769,Gas,,,,,9617.04
+IND,India,DADRI (NCTPP),1820,28.603,77.6078,Coal,,,,,9587.68
+VNM,Vietnam,Nhon Trach 1,1215,10.6428,106.84,Gas,,,,,9559.29
+AUS,Australia,Yallourn,1480,-38.177,146.3428,Coal,,,,,9558.1
+BRA,Brazil,Teles Pires,1819.8,-9.341,-56.7774,Hydro,10539.69,10245.07,10249.81,8472.46,9555.6
+CHN,China,Ordos Power Qipanjing power station,1960,39.3857,106.9657,Coal,,,,,9550.47
+CHN,China,Weihai power station,1960,37.4499,122.2072,Coal,,,,,9550.47
+USA,United States of America,Columbia Generating Station,1200,46.4711,-119.3339,Nuclear,,,,,9519.94
+USA,United States of America,Waterford 3,1199.8,29.9953,-90.4716,Nuclear,,,,,9518.35
+CHN,China,Changshu-2 power station,1950,31.7578,120.979,Coal,,,,,9501.74
+CHN,China,Jinzhushan power station,1950,27.6261,111.4819,Coal,,,,,9501.74
+IND,India,AKALTARA TPP,1800,21.9603,82.4091,Coal,,,,,9482.32
+IND,India,K_GUDEM NEW,1800,17.6219,80.6936,Coal,,,,,9482.32
+USA,United States of America,FirstEnergy Harrison Power Station,2052,39.3842,-80.3325,Coal,,,,,9478.54
+EGY,Egypt,High Dam,2100,23.9721,32.8828,Hydro,,,,,9465.76
+USA,United States of America,Fort Myers,2680.9,26.6967,-81.7831,Gas,,,,,9454.18
+CHN,China,Datang Xinyang power station,1940,32.1099,114.1406,Coal,,,,,9453.01
+CHN,China,Nanpu Quanzhou power station,1940,25.2038,118.9439,Coal,,,,,9453.01
+DEU,Germany,EMSLAND,1406,52.4716,7.3204,Nuclear,,,,,9448.93
+AUS,Australia,Stanwell,1460,-23.5097,150.3195,Coal,,,,,9428.94
+USA,United States of America,Chief Joseph,2456.2,47.9951,-119.6404,Hydro,10255.53,10229.49,12027.74,10257.52,9419.23
+USA,United States of America,Prairie Island,1186.2,44.622,-92.6333,Nuclear,,,,,9410.46
+DEU,Germany,NECKARWESTHEIM-2,1400,49.0408,9.1759,Nuclear,,,,,9408.61
+RUS,Russia,Volzhskaya HPP,2671,48.8244,44.6767,Hydro,,,,,9398.71
+IND,India,TARAPUR,1400,19.8294,72.6617,Nuclear,,,,,9369
+CHN,China,Chongqing Shuanghuai power station,1920,30.1621,106.5474,Coal,,,,,9355.56
+CHN,China,Huadian Wangting power station,1920,31.4444,120.4364,Coal,,,,,9355.56
+CHN,China,Huaneng Jinggangshan power station,1920,27.0467,115.0203,Coal,,,,,9355.56
+CHN,China,Yiyang power station,1920,28.5971,112.2683,Coal,,,,,9355.56
+TUR,Turkey,Enka Gebze Doğalgaz Santrali,1595,40.7638,30.393,Gas,,,,,9294.21
+USA,United States of America,Homer City Generating Station,2012,40.5128,-79.1961,Coal,,,,,9293.78
+JPN,Japan,Tsuruga,1160,35.7519,136.0189,Nuclear,,,,,9266.48
+NLD,Netherlands,Eemshaven,1600,53.4355,6.8793,Coal,,,,,9266.43
+CHN,China,Datang Qitaihe power station,1900,45.7596,131.0536,Coal,,,,,9258.11
+CHN,China,Dengfeng-2 power station,1900,34.3925,113.1997,Coal,,,,,9258.11
+CHN,China,Huaneng Taicang power station,1900,31.6566,121.1799,Coal,,,,,9258.11
+CHN,China,Hubei Ezhou power station,1900,30.5519,114.6425,Coal,,,,,9258.11
+CHN,China,Nanyang Yahekou power station,1900,33.3082,112.6451,Coal,,,,,9258.11
+ZAF,South Africa,Camden power station,1600,-26.6201,30.0911,Coal,,,,,9235.96
+CHN,China,Jinanqiao,2800,26.81,100.45,Hydro,6583.02,11484.18,8393.54,9341.05,9210.89
+CHN,China,Shiheng-2 power station,1890,36.2122,116.5136,Coal,,,,,9209.38
+JPN,Japan,Kobe power station,1400,34.7032,135.24,Coal,,,,,9198
+JPN,Japan,Reihoku power station,1400,32.4855,130.0429,Coal,,,,,9198
+TWN,Taiwan,Ho-Ping power station,1296,24.3078,121.7635,Coal,,,,,9164.11
+CHN,China,Guixi power station,1880,28.2891,117.2231,Coal,,,,,9160.65
+DEU,Germany,Grohnde,1360,52.0356,9.4135,Nuclear,,,,,9139.79
+PHL,Philippines,ILIJAN,1271,13.622,121.0795,Gas,,,,,9135.32
+ISR,Israel,Eshkol,1432,31.8388,34.6551,Gas,,,,,9103.03
+CAN,Canada,Genesee,1376,53.3446,-114.3049,Coal,,,,,9074.47
+USA,United States of America,Conemaugh,1963,40.3842,-79.0611,Coal,,,,,9067.44
+CHN,China,Qianxi power station,1860,27.0512,106.1261,Coal,,,,,9063.2
+USA,United States of America,Barry,2569.5,31.0069,-88.0103,Gas,,,,,9061.33
+IND,India,RAICHUR,1720,16.3532,77.3422,Coal,,,,,9060.88
+JPN,Japan,Higashi Ogishima,2000,35.4954,139.745,Gas,,,,,9048.61
+JPN,Japan,Sakaiko,2000,34.5704,135.4417,Gas,,,,,9048.61
+AUS,Australia,Mt Piper,1400,-33.3589,150.0313,Coal,,,,,9041.44
+AUS,Australia,Tarong,1400,-26.7824,151.9153,Coal,,,,,9041.44
+USA,United States of America,Wansley,1956.8,33.4134,-85.0323,Coal,,,,,9038.8
+USA,United States of America,Clinton Power Station,1138.3,40.1719,-88.8339,Nuclear,,,,,9030.46
+CHN,China,Changjiang,1220,19.46,108.9,Nuclear,,,,,9006.76
+KOR,South Korea,Bukpyung power station,1190,37.4805,129.1433,Coal,,,,,9003.16
+USA,United States of America,Chalk Point LLC,2553,38.5444,-76.6861,Gas,,,,,9003.14
+USA,United States of America,Ravenswood,2551,40.7592,-73.9461,Gas,,,,,8996.09
+CHN,China,Huaneng Yingkou power station,1840,40.3042,122.1054,Coal,,,,,8965.75
+CHN,China,Mawan power station,1840,22.4818,113.872,Coal,,,,,8965.75
+IND,India,BELLARY TPS,1700,15.1932,76.7195,Coal,,,,,8955.52
+SAU,Saudi Arabia,RAS Al Khair,1460,27.53,49.143,Gas,,,,,8943.23
+MEX,Mexico,Tamazunchale,1135,21.3113,-98.7565,Gas,,,,,8903.66
+CHN,China,Jiangsu Zhenjiang power station,1820,32.1852,119.2709,Coal,,,,,8868.29
+THA,Thailand,Wang Noi,2027,14.2324,100.7805,Gas,,,,,8864.24
+USA,United States of America,Gallatin (TN),1918.4,36.3156,-86.4006,Coal,,,,,8861.42
+TUR,Turkey,Enka İzmir Doğalgaz Santrali,1520,38.7467,26.9563,Gas,,,,,8857.18
+DEU,Germany,Weisweiler power station,1800,50.8392,6.3211,Coal,,,,,8849.45
+RUS,Russia,Nizhnevartovskaya,2013,60.9758,76.9433,Gas,,,,,8830.5
+MEX,Mexico,Altamira V,1121,22.4997,-97.9053,Gas,,,,,8793.84
+USA,United States of America,Big Bend,1903.5,27.7944,-82.4036,Coal,,,,,8792.6
+USA,United States of America,Big Cajun 2,1902.9,30.7261,-91.3692,Coal,,,,,8789.82
+JPN,Japan,Higashi-Dori,1100,41.188,141.3903,Nuclear,,,,,8787.18
+JPN,Japan,Tokai Daini,1100,36.4215,140.6028,Nuclear,,,,,8787.18
+AUS,Australia,Vales Point B,1360,-33.1607,151.5431,Coal,,,,,8783.12
+TWN,Taiwan,Kuosheng,2040,25.2025,121.6629,Nuclear,,,,,8782.09
+CHN,China,Chifeng Yuanbaoshan power station,1800,42.3033,119.325,Coal,,,,,8770.84
+CHN,China,Guangdong Shaoguan power station,1800,24.5852,113.5831,Coal,,,,,8770.84
+CHN,China,Hebi Fenghe power station,1800,35.8512,114.1798,Coal,,,,,8770.84
+CHN,China,Hongjun Aluminum power station,1800,45.5,119.6545,Coal,,,,,8770.84
+CHN,China,Shanxi Zhaoguang Phase 1,1800,36.5545,111.6932,Coal,,,,,8770.84
+CHN,China,Tianye power station,1800,44.3562,86.0475,Coal,,,,,8770.84
+CHN,China,Wujing power station,1800,31.062,121.4664,Coal,,,,,8770.84
+CHN,China,Xiangtan power station,1800,27.8287,112.9961,Coal,,,,,8770.84
+CHN,China,Xuanwei power station,1800,26.1872,104.1106,Coal,,,,,8770.84
+CHN,China,Zhangshan power station,1800,36.3261,113.0814,Coal,,,,,8770.84
+USA,United States of America,Baldwin Energy Complex,1894.1,38.205,-89.8544,Coal,,,,,8749.17
+VNM,Vietnam,Phu My 1,1108,10.6056,107.04,Gas,,,,,8717.44
+USA,United States of America,Keystone,1883.2,40.6604,-79.3411,Coal,,,,,8698.83
+IND,India,RAYAL SEEMA,1650,14.704,78.4577,Coal,,,,,8692.13
+USA,United States of America,Cardinal,1880.4,40.2522,-80.6486,Coal,,,,,8685.89
+SAU,Saudi Arabia,Wasit Gas Plant,1412,27.11,49.312,Gas,,,,,8649.21
+USA,United States of America,Martin,2448.5,27.0536,-80.5628,Gas,,,,,8634.62
+CHN,China,Huangdao power station,1770,36.039,120.2193,Coal,,,,,8624.66
+ITA,Italy,Brindisi Sud power station,2640,40.5632,18.0318,Coal,,,,,8619.4
+USA,United States of America,Nine Mile Point,2439.7,29.9472,-90.1458,Gas,,,,,8603.59
+USA,United States of America,Union Power Station,2428,33.2961,-92.5894,Gas,,,,,8562.33
+USA,United States of America,Limestone,1849.8,31.4219,-96.2525,Coal,,,,,8544.55
+JPN,Japan,Takehara power station,1300,34.3373,132.9572,Coal,,,,,8541
+IRQ,Iraq,Al-Shemal,2100,36.0547,43.2961,Oil,,,,,8534.93
+JPN,Japan,Goi,1886,35.547,140.0724,Gas,,,,,8532.84
+SAU,Saudi Arabia,Riyadh 10,3160.61,24.41,47.013,Oil,,,,,8507.26
+SGP,Singapore,PowerSeraya Pulau Seraya CCGT Cogen Power Plant Singapore,1540,1.2765,103.7266,Gas,,,,,8502.91
+ESP,Spain,CN COFRENTES,1063.94,39.2134,-1.0509,Nuclear,,,,,8499.89
+CHN,China,Guadian Dam,2400,27.8221,101.9025,Hydro,6920.5,8340.97,8058.73,9840.7,8472.37
+CHN,China,Guandi,2400,27.82,101.88,Hydro,6920.5,8340.97,8058.73,9840.7,8472.37
+CHN,China,Nanshan Aluminum Donghai power station,1730,37.7286,120.4433,Coal,,,,,8429.75
+IND,India,DAMODARAM SANJEEVAIAH,1600,14.3444,80.1264,Coal,,,,,8428.73
+IND,India,SAGARDIGHI TPP,1600,24.3696,88.1046,Coal,,,,,8428.73
+IND,India,YERMARUS TPP,1600,16.2949,77.3568,Coal,,,,,8428.73
+USA,United States of America,Sanford,2377.8,28.8419,-81.3256,Gas,,,,,8385.3
+USA,United States of America,Mystic Generating Station,2375.6,42.3908,-71.0675,Gas,,,,,8377.54
+CHE,Switzerland,Kernkraftwerk Leibstadt,1245,47.6012,8.1845,Nuclear,,,,,8366.79
+THA,Thailand,BLCP Power,1346,12.6448,101.1605,Coal,,,,,8362.35
+CAN,Canada,La Grande-1,1436,53.7323,-78.5712,Hydro,8452.39,8410.54,8504.13,8433.58,8358.81
+ESP,Spain,VANDELLOS GR 2,1045.31,40.9511,0.8662,Nuclear,,,,,8351.05
+KWT,Kuwait,Doha West,2543,29.3678,47.7865,Gas,,,,,8345.22
+TUR,Turkey,Bursa Doğalgaz Santrali,1432,40.2952,29.0736,Gas,,,,,8344.39
+USA,United States of America,Independence Steam Electric Station,1800,35.6784,-91.4088,Coal,,,,,8314.51
+USA,United States of America,White Bluff,1800,34.4228,-92.1406,Coal,,,,,8314.51
+USA,United States of America,Oak Grove (TX),1795.4,31.1803,-96.4866,Coal,,,,,8293.26
+RUS,Russia,Berezovskaya GRES,2400,55.5794,89.0725,Coal,,,,,8290.6
+CHN,China,Shengli Dongying power station,1700,37.4013,118.5243,Coal,,,,,8283.57
+CAN,Canada,Keephills,1253,53.4487,-114.4501,Coal,,,,,8263.3
+CAN,Canada,Sir Adam Beck 2,1499,43.1456,-79.0436,Hydro,8307.08,8307.08,8540.2,8528.27,8251.96
+USA,United States of America,Powerton,1785.6,40.5408,-89.6786,Coal,,,,,8247.99
+USA,United States of America,John Day,2160,45.7164,-120.6941,Hydro,9469.74,9446.84,9641.33,9472.72,8230.47
+GBR,United Kingdom,Staythorpe C,1772,53.073,-0.8585,Gas,,,,,8222.18
+USA,United States of America,Springerville,1779.2,34.3186,-109.1639,Coal,,,,,8218.43
+USA,United States of America,River Bend,1035.9,30.757,-91.3327,Nuclear,,,,,8218.09
+TWN,Taiwan,Maanshan,1902,21.9589,120.7501,Nuclear,,,,,8188.01
+USA,United States of America,V C Summer,1029.6,34.2983,-81.3153,Nuclear,,,,,8168.11
+IND,India,UNCHAHAR,1550,25.9131,81.3274,Coal,,,,,8165.33
+USA,United States of America,Prairie State Generating Station,1766,38.2792,-89.6669,Coal,,,,,8157.46
+USA,United States of America,Paradise,2310.2,37.2608,-86.9783,Gas,,,,,8146.91
+JPN,Japan,Nanko,1800,34.6177,135.4048,Gas,,,,,8143.75
+JPN,Japan,Shin Kokura,1800,33.9078,130.8614,Gas,,,,,8143.75
+CHN,China,Tongliao power station,1670,43.6704,122.1543,Coal,,,,,8137.39
+GBR,United Kingdom,Heysham 2,1230,54.0285,-2.916,Nuclear,,,,,8127.89
+MEX,Mexico,Altamira III y IV,1036,22.4939,-97.9014,Gas,,,,,8127.04
+KOR,South Korea,KOMIPO Incheon,1960,37.5109,126.609,Gas,,,,,8124.55
+USA,United States of America,TalenEnergy Montour,1757.9,41.0714,-76.6672,Coal,,,,,8120.04
+SGP,Singapore,Tuas CCGT Power Station Singapore,1470,1.2888,103.6414,Gas,,,,,8116.41
+BRA,Brazil,Itumbiara,2080.5,-18.4213,-49.116,Hydro,8997.59,8913.96,8845.49,7582.64,8100.71
+ARE,United Arab Emirates,New Mirfah (MIPCO),1728,24.104,53.4264,Gas,,,,,8099.95
+USA,United States of America,H L Culbreath Bayside Power Station,2294,27.9072,-82.4231,Gas,,,,,8089.78
+BRA,Brazil,Paulo Afonso IV,2462.4,-9.4132,-38.2106,Hydro,9246.05,8881.67,8528.37,8214.79,8060.2
+SAU,Saudi Arabia,Riyadh 7,1315.6,24.57,46.883,Gas,,,,,8058.71
+CHN,China,Shaanxi Youser Yulin power station,1650,38.2158,109.7282,Coal,,,,,8039.93
+RUS,Russia,Karmanovskaya TPP,1831,56.2486,54.5882,Gas,,,,,8032.11
+USA,United States of America,Indian Point 3,1012,41.2706,-73.9526,Nuclear,,,,,8028.48
+ESP,Spain,TRILLO,1003.41,40.7016,-2.6227,Nuclear,,,,,8016.31
+CHN,China,Huadian Harbin-3 power station,1640,45.9656,126.6637,Coal,,,,,7991.21
+ISR,Israel,Hagit,1255,32.6172,35.0431,Gas,,,,,7977.87
+USA,United States of America,Iatan,1725,39.4472,-94.98,Coal,,,,,7968.07
+MEX,Mexico,Carbón II,1400,28.4682,-100.7003,Coal,,,,,7955.27
+CHN,China,Qinhuangdao-2 power station,1630,39.9456,119.6433,Coal,,,,,7942.48
+USA,United States of America,Mill Creek (KY),1717.2,38.0525,-85.9103,Coal,,,,,7932.04
+GBR,United Kingdom,Sizewell B,1198,52.2145,1.6206,Nuclear,,,,,7916.43
+USA,United States of America,Sherwood H Smith Jr Energy Complex,2244.8,34.8392,-79.7406,Gas,,,,,7916.27
+IND,India,INDRA GANDHI STPP,1500,28.4849,76.3754,Coal,,,,,7901.93
+IND,India,SURATGARH,1500,29.179,74.0202,Coal,,,,,7901.93
+IND,India,VALLUR ntpc/ntecl,1500,13.2371,80.3023,Coal,,,,,7901.93
+USA,United States of America,Laramie River Station,1710,42.1089,-104.8825,Coal,,,,,7898.78
+RUS,Russia,CHP-21,1800,55.8947,37.5107,Gas,,,,,7896.12
+CHN,China,Liyuan,2400,27.68,100.29,Hydro,5536.79,9543.06,7220.05,8032.27,7895.04
+CHN,China,Anwen Songzao power station,1620,28.6411,106.7531,Coal,,,,,7893.75
+JPN,Japan,Isogo power station,1200,35.4036,139.6419,Coal,,,,,7884
+JPN,Japan,Nanao-Ohta Shinko power station,1200,37.0664,137.004,Coal,,,,,7884
+JPN,Japan,Noshiro power station,1200,40.1912,139.9911,Coal,,,,,7884
+JPN,Japan,Tsuruga power station,1200,35.6724,136.0815,Coal,,,,,7884
+USA,United States of America,Hines Energy Complex,2234,27.7882,-81.87,Gas,,,,,7878.19
+KOR,South Korea,Dongducheon,1900,37.903,127.09,Gas,,,,,7875.84
+TUR,Turkey,Ambarlı B Doğalgaz Santrali,1351,40.9834,28.6921,Gas,,,,,7872.4
+DEU,Germany,Hamburg-Moorburg,1600,53.489,9.949,Coal,,,,,7866.18
+USA,United States of America,Victor J Daniel Jr,2229,30.5322,-88.5553,Gas,,,,,7860.55
+USA,United States of America,Kingston,1700,35.8992,-84.5194,Coal,,,,,7852.59
+FIN,Finland,Loviisa Y1,992,60.3708,26.3468,Nuclear,,,,,7851.12
+ARE,United Arab Emirates,Taweelah A1,1671,24.7609,54.6803,Gas,,,,,7832.76
+GBR,United Kingdom,Torness,1185,55.9679,-2.4086,Nuclear,,,,,7830.52
+USA,United States of America,Fayette Power Project,1690,29.9172,-96.7506,Coal,,,,,7806.4
+GBR,United Kingdom,Hartlepool,1180,54.6341,-1.1801,Nuclear,,,,,7797.48
+CHN,China,CPI Qinghe power station,1600,42.5299,124.1403,Coal,,,,,7796.3
+BHR,Bahrain,Sitra Power an Water Station,1205,26.1833,50.6237,Gas,,,,,7794.78
+SAU,Saudi Arabia,JEDDAH SOUTH,2892,21.21,39.177,Oil,,,,,7784.25
+DEU,Germany,Gersteinwerk,2004.5,51.6725,7.7099,Gas,,,,,7768.23
+USA,United States of America,Mt Storm,1680.9,39.2008,-79.2636,Coal,,,,,7764.37
+IND,India,NEYVELI ST II,1470,11.5576,79.4417,Coal,,,,,7743.89
+IND,India,WANAKBORI,1470,22.8725,73.3588,Coal,,,,,7743.89
+CHN,China,Guangzhou Pump Storage,2400,23.7657,113.9536,Hydro,5582.7,7733.68,7733.68,9321.48,7733.68
+CHN,China,Huizhou,2400,23.27,114.31,Hydro,5582.7,7733.68,7733.68,9321.48,7733.68
+JPN,Japan,Chita Daini,1708,35.0067,136.8637,Gas,,,,,7727.51
+RUS,Russia,Troitskaya GRES,2234,54.0369,61.6472,Coal,,,,,7717.17
+MEX,Mexico,Tuxpan III y IV,983,20.8386,-97.2536,Gas,,,,,7711.28
+USA,United States of America,Belle River,1664.4,42.7756,-82.495,Coal,,,,,7688.15
+PHL,Philippines,Sual power station,1218,16.1243,120.1012,Coal,,,,,7675.23
+SRB,Serbia,TENT B,1270,44.6551,20.0053,Coal,,,,,7666.54
+RUS,Russia,Novocherkasskaya GRES,2214,47.4,40.2333,Coal,,,,,7648.08
+VEN,Venezuela,Antonio Jose de Sucre (Macagua),2930,8.3039,-62.6677,Hydro,5439.02,5079.12,5464.95,5353.81,7634.54
+GBR,United Kingdom,Heysham 1,1155,54.0285,-2.916,Nuclear,,,,,7632.28
+SAU,Saudi Arabia,FARAS,1244,27.46,46.864,Gas,,,,,7620.12
+PHL,Philippines,STA RITA,1060,13.7703,121.035,Gas,,,,,7618.75
+USA,United States of America,Walter Scott Jr Energy Center,1648.3,41.18,-95.8408,Coal,,,,,7613.78
+DEU,Germany,Rheinhafen-Dampfkraftwerk,1547,49.0134,8.3065,Coal,,,,,7605.61
+TUR,Turkey,Karakaya Dam,1800,38.2264,39.1353,Hydro,6151.93,4339.13,6151.93,6405.14,7598.57
+IND,India,UCHPINDA TPP,1440,21.8858,83.1215,Coal,,,,,7585.85
+CHN,China,Black Point Power Station,2500,22.41,113.91,Gas,,,,,7576.52
+USA,United States of America,Intermountain Power Project,1640,39.5097,-112.5802,Coal,,,,,7575.44
+USA,United States of America,Four Corners,1636.2,36.69,-108.4814,Coal,,,,,7557.89
+USA,United States of America,Comanche (CO),1635.3,38.2081,-104.5747,Coal,,,,,7553.73
+CAN,Canada,Pickering A,1084,43.8107,-79.0689,Nuclear,,,,,7549.1
+USA,United States of America,Harris,950.9,35.6334,-78.9556,Nuclear,,,,,7543.76
+USA,United States of America,Mitchell (WV),1632.6,39.8297,-80.8153,Coal,,,,,7541.26
+SAU,Saudi Arabia,RABIGH-2,2800,22.67,39.037,Oil,,,,,7536.62
+IRN,Iran,Bushehr,1000,28.8298,50.8857,Nuclear,,,,,7514
+JPN,Japan,Himeji Daini,1650,34.7734,134.694,Gas,,,,,7465.1
+USA,United States of America,Brunner Island,1616.1,40.0961,-76.6962,Coal,,,,,7465.04
+KOR,South Korea,Boryeong (CC),1800,36.3951,126.486,Gas,,,,,7461.32
+KOR,South Korea,Busan (pusan),1800,35.0851,129.0003,Gas,,,,,7461.32
+KOR,South Korea,Seoincheon,1800,37.5363,126.6027,Gas,,,,,7461.32
+KOR,South Korea,Shinincheon,1800,37.508,126.6159,Gas,,,,,7461.32
+IRN,Iran,Shirvan,1404,37.3397,58.0486,Gas,,,,,7457.52
+CHN,China,Shenhua Shenmu power station,1530,38.9662,110.4584,Coal,,,,,7455.21
+USA,United States of America,H L Spurlock,1608.5,38.7,-83.8181,Coal,,,,,7429.94
+CHN,China,Gongzui,2100,29.31,103.48,Hydro,5167.42,7390.93,7298.35,8496.89,7413.32
+THA,Thailand,South Bangkok,1691,13.617,100.559,Gas,,,,,7394.89
+TUR,Turkey,Cenal power station,1320,40.4167,27.3183,Coal,,,,,7393.09
+USA,United States of America,La Cygne,1598.9,38.3481,-94.6456,Coal,,,,,7385.59
+CHN,China,Xiaolangdi,1800,34.92,112.36,Hydro,6218.78,7382.68,7157.3,6004.96,7382.68
+KAZ,Kazakhstan,MAEK-Kazatoprom TPP-2,1255,52.367,76.9338,Coal,,,,,7375.19
+IND,India,RAJPURA TPP,1400,30.557,76.577,Coal,,,,,7375.14
+DEU,Germany,Schwarze Pumpe power station,1500,51.5348,14.3531,Coal,,,,,7374.54
+POL,Poland,Rybnik,1775,50.1331,18.5232,Coal,,,,,7373.11
+CHN,China,Heze power station,1510,35.2407,115.5335,Coal,,,,,7357.76
+JPN,Japan,Hirono,4400,37.2351,141.0162,Oil,,,,,7356.72
+JPN,Japan,Kashima,4400,35.9409,140.6888,Oil,,,,,7356.72
+USA,United States of America,Davis Besse,925.2,41.5967,-83.0861,Nuclear,,,,,7339.87
+IRN,Iran,Kazeroon,1372,29.5633,51.696,Gas,,,,,7287.54
+USA,United States of America,Hunter,1577.2,39.1747,-111.0289,Coal,,,,,7285.36
+USA,United States of America,Shawnee,1575,37.1517,-88.775,Coal,,,,,7275.2
+PHL,Philippines,Pagbilao power station,1154,13.8932,121.745,Coal,,,,,7271.94
+BGR,Bulgaria,Maritsa Itzok-2 power station,1602,42.2541,26.134,Coal,,,,,7262.68
+KAZ,Kazakhstan,OJSC Zhambyl GRES,1230,42.9,71.3667,Coal,,,,,7228.27
+IND,India,R.A.P.S.,1080,24.8747,75.6189,Nuclear,,,,,7227.51
+IND,India,RAIKHEDA,1370,21.4499,81.8525,Coal,,,,,7217.1
+USA,United States of America,J H Campbell,1560.8,42.9103,-86.2007,Coal,,,,,7209.6
+IDN,Indonesia,PLTU Tanjung Jati B - expansion,1324,-6.446,110.7423,Coal,,,,,7205.17
+IDN,Indonesia,PLTU Tanjung Jati B,1320,-6.446,110.7423,Coal,,,,,7183.4
+SGP,Singapore,Keppel Merlimau Cogen Power Plant Singapore,1300,1.2824,103.675,Gas,,,,,7177.78
+USA,United States of America,E C Gaston,2034,33.2442,-86.4581,Gas,,,,,7172.89
+CHN,China,Heshuyuan power station,1470,24.3924,116.2608,Coal,,,,,7162.85
+UKR,Ukraine,Vuglegirska power station,3600,48.4652,38.2027,Coal,,,,,7151.08
+USA,United States of America,Morgantown Generating Plant,1548,38.3592,-76.9767,Coal,,,,,7150.48
+CAN,Canada,Jean-Lesage (Manic-2),1229,49.3213,-68.3467,Hydro,5149.33,6012.59,7199.52,7163.62,7144.05
+DEU,Germany,Emsland,1837,52.4819,7.3067,Gas,,,,,7119.1
+IND,India,AMARAVATI TPP,1350,21.0782,77.9009,Coal,,,,,7111.74
+IND,India,NASIK TPP  PH 1,1350,19.9817,73.8896,Coal,,,,,7111.74
+CHN,China,Ludila,2160,26.2,100.82,Hydro,5078.33,8859.22,6475.01,7205.95,7105.54
+USA,United States of America,James E. Rogers Energy Complex,1530.5,35.22,-81.7594,Coal,,,,,7069.64
+IND,India,KORBA-WEST,1340,22.4118,82.6888,Coal,,,,,7059.06
+IND,India,K_KHEDA II,1340,21.2818,79.116,Coal,,,,,7059.06
+IND,India,MEJIA,1340,23.4639,87.1311,Coal,,,,,7059.06
+IND,India,SANJAY GANDHI,1340,23.3026,81.0668,Coal,,,,,7059.06
+VNM,Vietnam,Phu My 21,896,10.6041,107.04,Gas,,,,,7049.48
+USA,United States of America,H Allen Franklin Combined Cycle,1995.7,32.6078,-85.0975,Gas,,,,,7037.82
+USA,United States of America,James A Fitzpatrick,883.3,43.5214,-76.4084,Nuclear,,,,,7007.47
+IND,India,SATPURA,1330,22.11,78.173,Coal,,,,,7006.38
+THA,Thailand,Nong Saeng,1600,14.4417,100.7756,Gas,,,,,6996.93
+THA,Thailand,Rojana Power Plant 1,1600,14.3324,100.6382,Gas,,,,,6996.93
+CAN,Canada,Lennox,2000,44.1442,-76.848,Gas,,,,,6983.77
+RUS,Russia,Yuzhnouralskaya 2,1591.5,54.4557,61.2325,Gas,,,,,6981.49
+BRA,Brazil,Governador Leonel Brizola (Antiga TermoRio),1058.3,-22.7096,-43.2458,Gas,,,,,6976.3
+EGY,Egypt,Cairo North,1500,30.108,31.266,Gas,,,,,6959.09
+CHE,Switzerland,Kernkraftwerk Gösgen,1035,47.3656,7.968,Nuclear,,,,,6955.52
+IND,India,BARH STPP II,1320,25.4865,85.7452,Coal,,,,,6953.7
+IND,India,KAWAI TPP,1320,24.7773,76.737,Coal,,,,,6953.7
+IND,India,MAHATMA GANDHI TPP,1320,28.49,76.351,Coal,,,,,6953.7
+IND,India,NIGRI,1320,24.15,81.9045,Coal,,,,,6953.7
+IND,India,PAINAMPURAM,1320,14.3512,80.1431,Coal,,,,,6953.7
+IND,India,SEMBCORP GAYATRI,1320,14.351,80.1443,Coal,,,,,6953.7
+IND,India,SOLAPUR STPP,1320,31.7537,77.246,Coal,,,,,6953.7
+GBR,United Kingdom,Dungeness B,1050,50.9133,0.964,Nuclear,,,,,6938.44
+USA,United States of America,The Dalles,1819.7,45.614,-121.1346,Hydro,7977.82,7958.52,8122.37,7980.32,6933.79
+USA,United States of America,Chesterfield,1499.5,37.3822,-77.3833,Coal,,,,,6926.45
+RUS,Russia,Srednevralskaya,1578.5,57.0023,60.4635,Gas,,,,,6924.46
+QAT,Qatar,Qatalum CCGT Power Plant Qatar,1350,24.9713,51.5811,Gas,,,,,6909.69
+ZAF,South Africa,Grootvlei power station,1190,-26.7695,28.4995,Coal,,,,,6869.24
+USA,United States of America,Dan E Karn,1946.3,43.645,-83.8401,Gas,,,,,6863.61
+IDN,Indonesia,Cilacap Sumber power station,1260,-7.6832,109.0964,Coal,,,,,6856.89
+DEU,Germany,KW Voerde,1390,51.5765,6.6894,Coal,,,,,6833.74
+CHN,China,CPI Xinchang power station,1400,28.8612,115.9764,Coal,,,,,6821.76
+CHN,China,Chiping Haoji power station,1400,36.4865,116.3336,Coal,,,,,6821.76
+CHN,China,Ganneng Fengcheng power station,1400,28.1997,115.7097,Coal,,,,,6821.76
+CHN,China,Huaneng Dalian power station,1400,39.0148,121.7244,Coal,,,,,6821.76
+CHN,China,Huaneng Hainan East power station,1400,19.0494,108.6364,Coal,,,,,6821.76
+CHN,China,Jiayuguan Aluminum power station,1400,39.8461,98.2122,Coal,,,,,6821.76
+CHN,China,Liulin 1 Coal,1400,37.419,110.8243,Coal,,,,,6821.76
+CHN,China,Shenhuo Zhundong power station,1400,44.081,88.5887,Coal,,,,,6821.76
+CHN,China,Zhuhai GZP power station,1400,21.967,113.1812,Coal,,,,,6821.76
+GBR,United Kingdom,Didcot B,1470,51.6246,-1.2683,Gas,,,,,6820.88
+ARG,Argentina,NUEVO PUERTO,1217.7,-34.5721,-58.3835,Gas,,,,,6820.35
+MEX,Mexico,José López Portillo (Río Escondido),1200,28.4844,-100.6897,Coal,,,,,6818.81
+SVK,Slovakia,Bohunice Nuclear Power Plant Slovakia,880,48.496,17.6816,Nuclear,,,,,6805.78
+SVK,Slovakia,Mochovce Nuclear Power Plant Slovakia,880,48.2621,18.459,Nuclear,,,,,6805.78
+ROU,Romania,HPP Portile de Fier I,1161,44.6733,22.532,Hydro,6914.64,5291.86,5996.66,6150.39,6804.99
+USA,United States of America,Seminole (FL),1471.8,29.7331,-81.6328,Coal,,,,,6798.5
+JPN,Japan,Kawasaki,1500,35.5123,139.7626,Gas,,,,,6786.46
+ISR,Israel,Ramat Hovav,1067,31.1536,34.8146,Gas,,,,,6782.78
+TUR,Turkey,İsken Sugözü power station,1210,36.8346,35.8801,Coal,,,,,6777
+EGY,Egypt,Talkha,1460,31.0622,31.3921,Gas,,,,,6773.52
+USA,United States of America,Transalta Centralia Generation,1459.8,46.7559,-122.8598,Coal,,,,,6743.07
+POL,Poland,Połaniec,1623,50.4365,21.3377,Coal,,,,,6741.72
+SAU,Saudi Arabia,SHEDGUM,1100.5,25.68,49.433,Gas,,,,,6741.11
+TUR,Turkey,Hamitabat Termik Santrali,1156,41.4827,27.3366,Gas,,,,,6736.12
+TUR,Turkey,İskenderun Atlas Termik Santrali,1200,36.6904,36.2084,Coal,,,,,6720.99
+TUR,Turkey,İÇDAŞ Bekirli-2 power station,1200,40.3991,27.05,Coal,,,,,6720.99
+TUR,Turkey,İÇDAŞ Biga Termik Santrali,1200,40.0224,26.9777,Coal,,,,,6720.99
+ARM,Armenia,Hrazadan,1110,40.564,44.7479,Gas,,,,,6712.82
+RUS,Russia,Nevinnomysskya,1530.2,44.6595,41.9294,Gas,,,,,6712.58
+SGP,Singapore,SembCorp Pulau Sakra CCGT Cogen Power Station Singapore,1215,1.254,103.7026,Gas,,,,,6708.46
+TUR,Turkey,Aksa Antalya Doğalgaz Santrali,1150,37.1203,30.6016,Gas,,,,,6701.15
+THA,Thailand,Chana,1531,6.9553,100.7076,Gas,,,,,6695.19
+CAN,Canada,Manic-5,1596,50.6398,-68.7267,Hydro,6880.06,6225.29,6317.69,6335,6687.01
+USA,United States of America,Forney Energy Center,1894.2,32.7563,-96.4916,Gas,,,,,6679.88
+BEL,Belgium,TIHANGE 1N,962,50.5342,5.2751,Nuclear,,,,,6679.11
+USA,United States of America,J K Spruce,1444,29.3097,-98.3203,Coal,,,,,6670.08
+FRA,France,GRAND MAISON,1690,45.146,6.051,Hydro,5352.55,5853.59,6867.62,5676.18,6653.95
+IND,India,KOLAGHAT,1260,22.4157,87.8713,Coal,,,,,6637.62
+IND,India,VIJAYWADA,1260,16.5984,80.537,Coal,,,,,6637.62
+JPN,Japan,Chita,3966,34.9867,136.8436,Oil,,,,,6631.08
+CHN,China,Baotou Aluminum power station,1360,40.5572,110.1484,Coal,,,,,6626.85
+CHN,China,Guodian Jiujiang power station,1360,29.7404,116.0345,Coal,,,,,6626.85
+CHN,China,Huangtai power station,1360,36.7078,117.088,Coal,,,,,6626.85
+USA,United States of America,R S Nelson,1433.6,30.2844,-93.2911,Coal,,,,,6622.04
+CHN,China,Pengshui,1750,29.2,108.2,Hydro,5732.51,7545.92,9189.08,9695.66,6611.97
+JPN,Japan,Mihama,826,35.7024,135.9634,Nuclear,,,,,6598.37
+RUS,Russia,Kashirskaya GRES,1910,54.8581,38.2597,Coal,,,,,6597.93
+USA,United States of America,Craig (CO),1427.6,40.4627,-107.5912,Coal,,,,,6594.33
+USA,United States of America,W H Zimmer,1425.6,38.8675,-84.2289,Coal,,,,,6585.09
+IDN,Indonesia,PLTGU Gresik,1579,-7.1633,112.6615,Gas,,,,,6579.26
+CAN,Canada,Limestone,1350,56.5075,-94.1097,Hydro,,,,,6570.08
+JPN,Japan,Matsushima power station,1000,32.9409,129.5969,Coal,,,,,6570
+JPN,Japan,Misumi power station,1000,34.7797,131.9215,Coal,,,,,6570
+JPN,Japan,Shin Onoda power station,1000,33.969,131.1634,Coal,,,,,6570
+BRA,Brazil,Porto Primavera (Eng° Sérgio Motta),1540,-22.478,-52.9561,Hydro,7786.84,5172.89,7162.29,7306.24,6558.18
+JPN,Japan,Shimane,820,35.5379,132.9991,Nuclear,,,,,6550.44
+RUS,Russia,Shaturskaya GRES,1493,55.5833,39.5611,Gas,,,,,6549.4
+USA,United States of America,Midland Cogeneration Venture,1853.8,43.5861,-84.2242,Gas,,,,,6537.41
+IND,India,KOTA,1240,25.1712,75.8171,Coal,,,,,6532.26
+ARE,United Arab Emirates,"Jebel Ali ""L"" - Ph ll",1393,25.0508,55.1112,Gas,,,,,6529.65
+CHN,China,Huaneng Jiutai power station,1340,44.1071,125.928,Coal,,,,,6529.4
+JPN,Japan,Himeji Daiichi,1442,34.7734,134.694,Gas,,,,,6524.05
+MYS,Malaysia,Segari,1303,4.3908,100.5894,Gas,,,,,6511.11
+IND,India,NATHPA JHAKRI,1500,31.564,77.98,Hydro,6403.23,5663.41,6098.35,5372.63,6500.33
+USA,United States of America,Northside Generating Station,1407.1,30.4172,-81.5525,Coal,,,,,6499.64
+BRA,Brazil,São Simão,1710,-19.0181,-50.4992,Hydro,7682.87,7024.24,5946.18,6720.26,6498.46
+CHN,China,Datang Heshan power station,1330,23.8218,108.8669,Coal,,,,,6480.67
+USA,United States of America,Elm Road Generating Station,1402.6,42.8492,-87.8336,Coal,,,,,6478.85
+KOR,South Korea,Pocheon,1560,37.9465,127.1689,Gas,,,,,6466.48
+ITA,Italy,Torrevaldaliga Nord power station,1980,42.1269,11.7583,Coal,,,,,6464.55
+CAN,Canada,René-Lévesque (Manic-3),1326,49.7408,-68.5945,Hydro,5258.99,5248.9,5555.75,5560.37,6461.2
+AUS,Australia,Loy Yang B,1000,-38.2564,146.5864,Coal,,,,,6458.17
+USA,United States of America,Palisades,811.8,42.323,-86.3146,Nuclear,,,,,6440.24
+COD,Democratic Republic of the Congo,Inga II,1775,-5.5267,13.6206,Hydro,,,,,6437.25
+CHN,China,Anhui Xuancheng power station,1320,30.8695,118.8648,Coal,,,,,6431.95
+CHN,China,Baise Coal,1320,23.7882,106.8155,Coal,,,,,6431.95
+CHN,China,Baotou East Hope power station,1320,40.5956,109.7828,Coal,,,,,6431.95
+CHN,China,Binzhou - Huji 1-4 Coal,1320,37.3495,117.7784,Coal,,,,,6431.95
+CHN,China,Bulian power station,1320,39.3012,109.9682,Coal,,,,,6431.95
+CHN,China,CPI Baicheng power station,1320,45.5261,122.7759,Coal,,,,,6431.95
+CHN,China,CPI Ningxia Zaoquan power station,1320,38.0462,106.6058,Coal,,,,,6431.95
+CHN,China,CPI Shentou power station,1320,39.5508,112.4887,Coal,,,,,6431.95
+CHN,China,CPI Xining power station,1320,36.5847,101.4936,Coal,,,,,6431.95
+CHN,China,CR Liuzhi power station,1320,26.3883,105.395,Coal,,,,,6431.95
+CHN,China,Changde Coal,1320,29.197,111.5607,Coal,,,,,6431.95
+CHN,China,Datang Jingtai power station,1320,37.2316,104.1681,Coal,,,,,6431.95
+CHN,China,Datang Maanshan Dangtu power station,1320,31.5347,118.4139,Coal,,,,,6431.95
+CHN,China,Datang Nanjing Xiaguan-3 power station,1320,32.2127,119.2096,Coal,,,,,6431.95
+CHN,China,Dianta Coal,1320,38.9728,110.4514,Coal,,,,,6431.95
+CHN,China,GEPIC Jinchang power station,1320,38.3784,102.0968,Coal,,,,,6431.95
+CHN,China,Gansu Chongxin power station,1320,35.2796,106.9196,Coal,,,,,6431.95
+CHN,China,Guodian Baoqing power station,1320,27.2021,111.3966,Coal,,,,,6431.95
+CHN,China,Guodian Dananhu power station,1320,42.3202,93.1914,Coal,,,,,6431.95
+CHN,China,Guodian Nanning power station,1320,22.7891,108.9395,Coal,,,,,6431.95
+CHN,China,Guodian Zhijin power station,1320,26.8326,105.8193,Coal,,,,,6431.95
+CHN,China,Hanfeng power station,1320,36.4719,114.1523,Coal,,,,,6431.95
+CHN,China,Henan Heqi power station,1320,35.7214,114.1855,Coal,,,,,6431.95
+CHN,China,Henglian Wucaiwan power station,1320,44.7896,89.1977,Coal,,,,,6431.95
+CHN,China,Huadian Baotou Tuyou power station,1320,40.5836,110.6228,Coal,,,,,6431.95
+CHN,China,Huadian Changde power station,1320,29.031,111.7,Coal,,,,,6431.95
+CHN,China,Huadian Luan power station,1320,31.6561,116.4914,Coal,,,,,6431.95
+CHN,China,Huadian Wuhu power station,1320,31.2376,118.15,Coal,,,,,6431.95
+CHN,China,Huaibei Hushan power station,1320,33.8678,116.8598,Coal,,,,,6431.95
+CHN,China,Huaibei Pingshan power station,1320,33.8339,116.8311,Coal,,,,,6431.95
+CHN,China,Huaneng Anyuan power station,1320,27.642,114.0058,Coal,,,,,6431.95
+CHN,China,Huaneng Changxing power station,1320,30.9144,119.9625,Coal,,,,,6431.95
+CHN,China,Huaneng Huaiyin power station,1320,33.5959,118.9628,Coal,,,,,6431.95
+CHN,China,Huaneng Luoyuan power station,1320,26.4114,119.7643,Coal,,,,,6431.95
+CHN,China,Jiangsu Guohua Chenjiagang power station,1320,34.4242,119.7985,Coal,,,,,6431.95
+CHN,China,Jiangsu Guoxin Jingjiang power station,1320,32.0307,120.3828,Coal,,,,,6431.95
+CHN,China,Jiangsu Sheyanggang power station,1320,33.8185,120.4633,Coal,,,,,6431.95
+CHN,China,Jiaozuo - Shenhua 7-8 Coal,1320,35.2234,113.2003,Coal,,,,,6431.95
+CHN,China,Jiaozuo Boai power station,1320,35.221,113.1022,Coal,,,,,6431.95
+CHN,China,Jingdezhen power station,1320,29.1866,117.0842,Coal,,,,,6431.95
+CHN,China,Jinsha Chayuan power station,1320,27.4934,106.4492,Coal,,,,,6431.95
+CHN,China,Laibin power station,1320,23.6949,109.1629,Coal,,,,,6431.95
+CHN,China,Panxian-1 power station,1320,26.0106,104.5161,Coal,,,,,6431.95
+CHN,China,SDIC Dananhu power station,1320,42.3055,93.3519,Coal,,,,,6431.95
+CHN,China,Shenhua Yuanyang Lake power station,1320,38.0569,106.691,Coal,,,,,6431.95
+CHN,China,Tianfu North power station,1320,44.4404,86.094,Coal,,,,,6431.95
+CHN,China,Tonghua Xuangang power station,1320,38.9146,112.4774,Coal,,,,,6431.95
+CHN,China,Weiqiao Town Public Heating power station,1320,37.0255,117.4838,Coal,,,,,6431.95
+CHN,China,Weiqiao Yangxin power station,1320,37.5765,117.5986,Coal,,,,,6431.95
+CHN,China,Wuhu Zhongdian power station,1320,31.4528,118.3445,Coal,,,,,6431.95
+CHN,China,Xinxiang Baoshan power station,1320,35.3268,113.4906,Coal,,,,,6431.95
+CHN,China,Xishui Erlang power station,1320,28.1634,106.3528,Coal,,,,,6431.95
+CHN,China,Yichuan Longquan Kim Hyung power station,1320,34.4146,112.5011,Coal,,,,,6431.95
+CHN,China,Yinxing power station,1320,37.7274,106.7409,Coal,,,,,6431.95
+CHN,China,Zhungeer power station,1320,39.8535,111.2563,Coal,,,,,6431.95
+THA,Thailand,Kaeng Khoi 2,1468,14.605,101.0259,Gas,,,,,6419.69
+USA,United States of America,Nebraska City,1389.6,40.6214,-95.7764,Coal,,,,,6418.8
+GBR,United Kingdom,Connahs Quay,1380,53.2317,-3.0815,Gas,,,,,6403.27
+CHN,China,Tianjin Dagang power station,1312,38.7765,117.494,Coal,,,,,6392.97
+USA,United States of America,Sabine,1811.8,30.0242,-93.878,Gas,,,,,6389.3
+GBR,United Kingdom,Hunterston B,965,55.7204,-4.8964,Nuclear,,,,,6376.76
+IND,India,BHUSAWAL,1210,21.0483,75.8425,Coal,,,,,6374.22
+NLD,Netherlands,Maasvlakte 3,1100,51.9587,4.0272,Coal,,,,,6370.67
+CHN,China,Beijing - Northwest,2100,39.9417,116.1257,Gas,,,,,6364.27
+USA,United States of America,Cooper Nuclear Station,801,40.3628,-95.6408,Nuclear,,,,,6354.56
+CHN,China,Douhe power station,1300,39.773,118.2729,Coal,,,,,6334.49
+CHN,China,Guodian Feixian power station,1300,35.3197,117.9057,Coal,,,,,6334.49
+CHN,China,Guodian Huangjinbu power station,1300,28.4508,116.8603,Coal,,,,,6334.49
+CHN,China,Guodian Jilin power station,1300,47.3783,124.0519,Coal,,,,,6334.49
+CHN,China,Hejin power station,1300,35.6131,110.6558,Coal,,,,,6334.49
+CHN,China,Huaneng Yangliuqing power station,1300,39.1512,117.038,Coal,,,,,6334.49
+CHN,China,Liyujiang-2B power station,1300,25.9404,113.1925,Coal,,,,,6334.49
+CHN,China,Sanhe Yanjiao power station,1300,39.9528,116.8487,Coal,,,,,6334.49
+CHN,China,Taicanggang power station,1300,31.5877,121.2566,Coal,,,,,6334.49
+CHN,China,Tongmei Yongji power station,1300,34.8558,110.4707,Coal,,,,,6334.49
+JPN,Japan,Yanai,1400,33.953,132.1248,Gas,,,,,6334.03
+USA,United States of America,Brandon Shores,1370.2,39.18,-76.5389,Coal,,,,,6329.19
+USA,United States of America,TalenEnergy Martins Creek,1794.1,40.7978,-75.1054,Gas,,,,,6326.88
+IND,India,"ANAPARA ""C""",1200,24.2007,82.8,Coal,,,,,6321.54
+IND,India,ANUPUR TPP,1200,23.0655,81.7865,Coal,,,,,6321.54
+IND,India,BARADARHA TPP,1200,21.9114,83.1889,Coal,,,,,6321.54
+IND,India,DERANG,1200,21.1238,84.9843,Coal,,,,,6321.54
+IND,India,ITPCL TPP,1200,11.5214,79.7515,Coal,,,,,6321.54
+IND,India,JSW RATNAGIRI TPP,1200,17.297,73.212,Coal,,,,,6321.54
+IND,India,KALISINDH,1200,24.5295,76.0986,Coal,,,,,6321.54
+IND,India,MAHAN TPP,1200,24.0077,82.4172,Coal,,,,,6321.54
+IND,India,MELAMARUTHUR (MUTHIARA),1200,8.9159,78.1374,Coal,,,,,6321.54
+IND,India,NORTH CHENNAI EXTENSION,1200,13.245,80.3257,Coal,,,,,6321.54
+IND,India,RAGHUNATHPUR TPP PH-I,1200,23.622,86.661,Coal,,,,,6321.54
+IND,India,RAJIV GANDHI  TPS HISAR,1200,29.356,75.869,Coal,,,,,6321.54
+IND,India,ROSA TPP PH - 1,1200,27.818,79.936,Coal,,,,,6321.54
+IND,India,SALAYA TPP,1200,22.3049,69.7101,Coal,,,,,6321.54
+IND,India,SINGARENI TPP,1200,18.8372,79.5748,Coal,,,,,6321.54
+IND,India,UDUPI TPP,1200,13.1596,74.8002,Coal,,,,,6321.54
+USA,United States of America,FirstEnergy Pleasants Power Station,1368,39.3667,-81.2944,Coal,,,,,6319.03
+USA,United States of America,Allen,1791.7,35.0741,-90.1487,Gas,,,,,6318.42
+GBR,United Kingdom,Hinkley Point B,955,51.2085,-3.1334,Nuclear,,,,,6310.68
+EGY,Egypt,Cairo West,1360,30.1387,31.1672,Gas,,,,,6309.58
+USA,United States of America,Gerald Gentleman,1362.6,41.0808,-101.1408,Coal,,,,,6294.08
+USA,United States of America,Geysers Unit 5-20,1163,38.777,-122.745,Geothermal,,,,,6286.45
+ETH,Ethiopia,Gilgel Gibe III,1870,6.8482,37.3018,Hydro,6813.2,5714.73,6810.95,6763.41,6272.93
+USA,United States of America,Greensville County Power Station,1773.3,36.7182,-77.6496,Gas,,,,,6253.53
+CHN,China,Longkaikou,1900,26.53,100.42,Hydro,4467.05,7792.83,5695.61,6338.57,6250.24
+BGD,Bangladesh,Horippur Power CCPP,946,23.6839,90.5314,Gas,,,,,6249.42
+ECU,Ecuador,Coca Coda Sinclair,1500,-0.1443,-77.617,Hydro,5101.67,5132.6,5165.8,4850.7,6241.95
+CHN,China,Fuyang power station,1280,33.0047,115.8448,Coal,,,,,6237.04
+CHN,China,Guangzhou Zhujiang power station,1280,22.8141,113.5678,Coal,,,,,6237.04
+CHN,China,Yangquan-2 power station,1280,37.7745,113.6262,Coal,,,,,6237.04
+KOR,South Korea,Bugok,1503,36.959,126.7825,Gas,,,,,6230.2
+KOR,South Korea,Ulsan,3000,35.4754,129.3812,Oil,,,,,6229.36
+BHR,Bahrain,Hidd Power and Water station 1,963,26.2223,50.6621,Gas,,,,,6229.35
+BHR,Bahrain,Al Ezzel Power Station,962,26.2175,50.6595,Gas,,,,,6222.88
+POL,Poland,Turów,1498,50.9482,14.9128,Coal,,,,,6222.49
+CHN,China,Wuqiangxi,1200,28.78,110.93,Hydro,5481.02,6281.25,5917.52,5883.49,6221.96
+RUS,Russia,Tyumen CHP-1,1417,57.0867,65.6269,Gas,,,,,6216
+CHN,China,Taiyuan 1 Coal,1275,37.7808,112.4776,Coal,,,,,6212.68
+VNM,Vietnam,Vung Ang I,1245,18.0979,106.38,Coal,,,,,6199.8
+POL,Poland,Opole,1492,50.7514,17.8845,Coal,,,,,6197.57
+VNM,Vietnam,Duyen Hai 1,1244,9.583,106.52,Coal,,,,,6194.82
+VNM,Vietnam,Vinh Tan 2,1244,11.317,108.81,Coal,,,,,6194.82
+IND,India,RATNAGIRI GAS,1967.08,17.5587,73.167,Gas,,,,,6189.3
+USA,United States of America,Lincoln Combustion,1753.6,35.4317,-81.0347,Gas,,,,,6184.06
+GBR,United Kingdom,West Burton CCGT,1332,53.3631,-0.7976,Gas,,,,,6180.55
+IND,India,PARLI,1170,18.8685,76.5254,Coal,,,,,6163.51
+CHN,China,Huaneng Zuoquan power station,1262,37.0694,113.3526,Coal,,,,,6149.33
+CHN,China,CR Changzhou power station,1260,31.9576,119.9921,Coal,,,,,6139.59
+CHN,China,Datang Binchang power station,1260,35.1359,107.9315,Coal,,,,,6139.59
+CHN,China,Datang Zhuzhou-2 power station,1260,27.2444,113.4603,Coal,,,,,6139.59
+CHN,China,Guodian Shangqiu Minquan power station,1260,34.6189,115.2925,Coal,,,,,6139.59
+CHN,China,Guohua Taicang power station,1260,31.5877,121.2556,Coal,,,,,6139.59
+CHN,China,Hefei power station,1260,31.9137,117.2521,Coal,,,,,6139.59
+CHN,China,Huadian Suzhou power station,1260,33.8059,116.9821,Coal,,,,,6139.59
+CHN,China,Huaibei Linhuan power station,1260,33.6127,116.5866,Coal,,,,,6139.59
+CHN,China,Jiangyou power station,1260,31.8045,104.7679,Coal,,,,,6139.59
+CHN,China,Kaifeng-2 power station,1260,34.8063,114.4451,Coal,,,,,6139.59
+CHN,China,Linyi power station,1260,35.0071,118.3239,Coal,,,,,6139.59
+CHN,China,Luoyang Shouyangshan-3 power station,1260,34.7371,112.684,Coal,,,,,6139.59
+CHN,China,Taiyuan-2 power station,1260,37.987,112.519,Coal,,,,,6139.59
+CHN,China,Xingyang Integration power station,1260,34.8246,113.3676,Coal,,,,,6139.59
+CHN,China,Zhejiang Taizhou-1 power station,1260,28.6978,121.453,Coal,,,,,6139.59
+USA,United States of America,PSEG Linden Generating Station,1740,40.6217,-74.2072,Gas,,,,,6136.1
+USA,United States of America,Haynes,1739.1,33.7647,-118.0991,Gas,,,,,6132.92
+THA,Thailand,Ratchaburi Power (RPCL),1400,13.6068,99.8902,Gas,,,,,6122.32
+USA,United States of America,GREC,1734.3,36.1903,-95.2894,Gas,,,,,6116
+USA,United States of America,Midlothian Energy Facility,1734,32.4302,-97.0537,Gas,,,,,6114.94
+KOR,South Korea,Yulchon,1475,34.913,127.593,Gas,,,,,6114.14
+USA,United States of America,H B Robinson,768.6,34.4017,-80.1589,Nuclear,,,,,6097.52
+USA,United States of America,Elwood Energy LLC,1728,41.4388,-88.1236,Gas,,,,,6093.78
+USA,United States of America,Kincaid Generation LLC,1319,39.5906,-89.4964,Coal,,,,,6092.69

@@ -1,0 +1,11 @@
+country,country_long,name,capacity_mw,latitude,longitude,primary_fuel,estimated_generation_gwh_2013,estimated_generation_gwh_2014,estimated_generation_gwh_2015,estimated_generation_gwh_2016,estimated_generation_gwh_2017
+CHN,China,Three Gorges Dam,22500,30.8235,111.0032,Hydro,,,,,82810.77
+JPN,Japan,Kashiwazaki Kariwa,8212,37.4259,138.5941,Nuclear,,,,,65600.32
+CHN,China,Baihetan Dam,13050,28.2606,103.6484,Hydro,48675.06,58470.77,57113.35,60859.73,58470.77
+CHN,China,Xiluodu,12600,28.26,103.65,Hydro,46996.61,56454.54,55143.92,58761.11,56454.54
+PRY,Paraguay,Itaipu Binacional Dam (Paraguay part),7000,-25.4081,-54.5889,Hydro,35230.22,34666.61,35230.22,,47320.15
+VEN,Venezuela,Simon Bolivar (Guri),8851,7.7659,-62.9982,Hydro,44579.67,43535.76,43535.76,44701.81,41176.73
+TWN,Taiwan,Taizhong Taichung,5500,24.2131,120.485,Coal,,,,,38890.93
+RUS,Russia,Surgutskaya GRES-2,8865,61.2794,73.4889,Gas,,,,,38888.43
+KOR,South Korea,Yeongheung,5080,37.2369,126.4361,Coal,,,,,38433.66
+JPN,Japan,Ohi,4710,35.5424,135.6544,Nuclear,,,,,37625.12
