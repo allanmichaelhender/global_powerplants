@@ -1,4 +1,4 @@
-# [Power BI Dashboard}(https://github.com/allanmichaelhender/global_powerplants/blob/main/Power%20BI/Power%20BI%20Dashboards.pdf)
+# [Power BI Dashboard](https://github.com/allanmichaelhender/global_powerplants/blob/main/Power%20BI/Power%20BI%20Dashboards.pdf)
 ---
 Welcome to my analysis on Global Powerplants.
 
